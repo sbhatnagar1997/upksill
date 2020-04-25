@@ -1,0 +1,38 @@
+Data Engineering Project Ideas:
+
+Goal: UpSkill core training tech stack
+1) Python
+2) ML
+3) SQL
+4) Big Data: hadoop, sqoop
+5) Visualization (though this will not be free)
+
+Create a data engineering related project that would take maybe 1/2 weeks that would allow me to upskill/refresh my memory with the tech stack learnt.
+
+Ideas:
+
+1) Webscrape some sort of data webiste (either direct scraping or API based)
+- Covid? Jobs? Stock Market prices?
+- TECH: python
+
+2) Store data in a database/create a relational model for the incoming data
+- TECH: SQL/Hadoop (sqoop etc)
+- Create a ERD (entity relationship diagram)
+
+3) Use sklearn in Python to process and analyze the data in a useful way
+- TECH: ML (python)
+- Classification or regression? Best algorithm, loss function?
+
+4) Some sort of interactive website, output
+- Either a visual or some sort of interactive/filter based analysis
+- Git repo to showcase skills
+
+
+Additional Ideas:
+- Potentially deploy on some sort of PaaS (AWS)
+- Use jenkins/travis to automate testing of the project
+- Use PyCharm or spyder (maybe PyCharm as it is more production friendly)
+
+
+
+
