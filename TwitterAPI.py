@@ -42,7 +42,6 @@ api = twitter.Api(consumer_key=ck,
                   access_token_key=ak,
                   access_token_secret=aks)
 
-
 #%%
 # =============================================================================
 # Create search parameters using Pycountry
@@ -97,9 +96,6 @@ def search_creator(country_state_list,term):
     return cs        
 
 search = search_creator(country_state,'covid')
-
-
-
 
 #%%
 # =============================================================================
