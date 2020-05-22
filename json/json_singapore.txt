@@ -1,0 +1,3026 @@
+{
+    "1263630977504440321": {
+        "datetime": 1590108076000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "We're proud of @YSEALI #ProFellows 2017 alumnus and co-founder of Love Action Project, Joe Tan, for organizing Music For A Cause, Singapore's first and only altruistic music festival, virtually despite challenges posed by COVID-19.  pic.twitter.com/iif3d6WqXF",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263629991125778432": {
+        "datetime": 1590107841000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Bangladeshi man makes further recovery, to move to community hospital  https://sg.news.yahoo.com/covid-19-bangladeshi-man-makes-further-recovery-to-move-to-community-hospital-003613389.html?soc_src=social-sh&soc_trk=tw\u00a0\u2026 via @yahoosg",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263629740956680192": {
+        "datetime": 1590107782000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Microsoft #Covid #Healthcare\nThe cloud and COVID-19: Pivoting in a crisis to protect lives - Singapore News Center  https://news.microsoft.com/en-sg/2020/05/21/the-cloud-and-covid-19-pivoting-in-a-crisis-to-protect-lives/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263628602056179714": {
+        "datetime": 1590107510000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "oh we just had our 23rd death case from covid 19 in singapore........\ud83d\ude10",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263625799921364992": {
+        "datetime": 1590106842000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines, community centres from May 26  https://www.channelnewsasia.com/news/singapore/covid-19-coronavirus-where-collect-reusable-mask-improved-12757066#.Xscay9bJzfA.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263625671261257728": {
+        "datetime": 1590106811000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Planes grounded by Covid-19 kept in tip-top shape at Changi \n\nBest airport in the world! \ud83d\ude0d\n#Singapore #changi #coronavirus #covid19 https://str.sg/JA9M\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263625037006979078": {
+        "datetime": 1590106660000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/#.XscaILEbKFA.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263623584011952132": {
+        "datetime": 1590106314000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Beach House Pictures chats with Variety today about how the Singapore-based prodco has responded to Covid-19 in the pub's Coronavirus Chronicles series. More here:  https://variety.com/2020/biz/global/coronavirus-paolo-sorrentino-nicolas-celis-roma-mattie-do-1234612320/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263623485697359873": {
+        "datetime": 1590106290000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/\u00a0\u2026 via @smithsonianmag",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263621909608095750": {
+        "datetime": 1590105914000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "New post: Tanoto Foundation Donates PPEs to Further Combat COVID-19 in Singapore  https://www.africanewscircle.com/?p=41210\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263620591820500992": {
+        "datetime": 1590105600000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Delegates were required to undergo multiple nucleic acid tests for COVID-19 before taking part in the meetings.\n\n https://bit.ly/2WWpcMN\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263501168078028809": {
+        "datetime": 1590105537000,
+        "likes": "0",
+        "retweets": "5",
+        "tweet": "Happy Despite of COVID-19 and Circuit Breaker Measures dito sa Singapore. \n#ALDUBxADNKSHappyKa",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263617891825446913": {
+        "datetime": 1590104956000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Hey @auspost package from Singapore to Sydney in 2 days, from your distribution centre in Sydney to 200kms up the road maybe 7 days??? Using Covid-19 as a cover for bad service?",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263617758828195840": {
+        "datetime": 1590104933000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Q2: What are you looking forward to most about performing at music shows with fans in the audience?\n(MCND\u00a0debuted when music shows began having no-audience recordings to prevent the spread of COVID-19.)\n#MCND @McndOfficial_",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263617648618663936": {
+        "datetime": 1590104898000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263617593392406528": {
+        "datetime": 1590104885000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/\u00a0\u2026 via @smithsonianmag pic.twitter.com/urc3LfW8tI",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263616150484791296": {
+        "datetime": 1590104541000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/#.XscR2andWWg.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263615910247530505": {
+        "datetime": 1590104484000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "5 million cases worldwide! To put that in perspective, that's nearly the entire population of #Singapore. #Covid_19 #coronavirus https://infographics.channelnewsasia.com/covid-19/map.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263613645319073792": {
+        "datetime": 1590103944000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263611015066943490": {
+        "datetime": 1590103317000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "2 in Barbados \ud83c\udde7\ud83c\udde7\n12 in Paraguay \ud83c\uddf5\ud83c\uddfe\n842 in Singapore \ud83c\uddf8\ud83c\uddec\n3 in Monaco \ud83c\uddf2\ud83c\udde8\nIs the count of people healed today from Covid-19: Whooooooohoooooo!!!!",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263609482015367168": {
+        "datetime": 1590102951000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/#.XscLXH1qYaI.twitter\u00a0\u2026 This is amazing. A US robotics company providing and Asian city with means to enforce social distancing rules while protecting those who would need to do the enforcing!",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1262792820177371136": {
+        "datetime": 1590102800000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "South Korea and singapore do not count people that die of pneumonia but test positive for covid. Can\u2019t compare between countries. \n\nSouth Korea also allowed private sector to handle testing instead of forcing government to do it.\n\nNot sure what your point is.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263608815037095936": {
+        "datetime": 1590102792000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/\u00a0\u2026 via @smithsonianmag",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263607148933677056": {
+        "datetime": 1590102395000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/\u00a0\u2026 via @smithsonianmag",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263607113546375168": {
+        "datetime": 1590102387000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "COVID-19 cases in Singapore cross 26,000 mark; new daily high of 1,164 discharged patients - CNA #CoronavirusOutbreak #CoronaVirusUpdates  https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-26-000-may-14-1164-discharged-daily-high-12731218?utm_source=contentstudio.io&utm_medium=referral\u00a0\u2026 via @channelnewsasia",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263605127086129153": {
+        "datetime": 1590101913000,
+        "likes": "1",
+        "retweets": "2",
+        "tweet": "How COVID-19 motivated Singapore\u2019s Kollywood hotshot to write Lockdown songs  https://cna.asia/2AIrA0H\u00a0 pic.twitter.com/5etRR9mU3y",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263443386616279041": {
+        "datetime": 1590100859000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Exactly. How can Malaysians be safe if migrants aren't tested and safe from covid-19? When will authorities listen? After what happened to migrant workers in Singapore?",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263596940412850179": {
+        "datetime": 1590099961000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore\u2019s Covid-19 case fatality rate is remarkably low. Why?  http://a.msn.com/01/en-gb/BB14o9Cd?ocid=st\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263596090663698434": {
+        "datetime": 1590099759000,
+        "likes": "5",
+        "retweets": "5",
+        "tweet": "How is the Fukushima nuclear disaster like COVID-19? This question and more in my #COVIDCalls discussion w/the inspired @sociotalker. We talk Singapore, Indonesia, and Fukushima--catch it all here: \n https://soundcloud.com/scott-knowles-433708957\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263473764991414274": {
+        "datetime": 1590099444000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "22 people died in Singapore from Covid-19, and they got 30k something confirmed cases. Do the math.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263593790620659724": {
+        "datetime": 1590099210000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID Man handed death sentence in Singapore on Zoom video call \u2014- so how does the death sentence proceed with social distancing? #westworld https://news.sky.com/story/coronavirus-man-handed-death-sentence-in-sinagpore-on-zoom-video-call-11991486\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263588277853904896": {
+        "datetime": 1590098144000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Covid_19 is SECOND SARS #coronavirus. TRUMP Ignored its history and that #HongKong Residents IMMEDIATLEY began wearing #masks when they heard of this new one. THEY HAVE 4 #CV Deaths, #Singapore only 22\nALL #CV cases are spread by #Maskless ALL Deaths caused by #Maskless @Maddow pic.twitter.com/zQvkqR6y0d",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263589156686454784": {
+        "datetime": 1590098105000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Evolution of cases in Australia, Brunei, Japan, New Zealand, Singapore, since 100th confirmed case.  pic.twitter.com/arrq1LBQDm",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263588201890906115": {
+        "datetime": 1590097878000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Bangladeshi worker Raju Sarker, who was critically ill with COVID-19 in Singapore,\u00a0will soon be moved to a community hospital.\n.\n https://www.channelnewsasia.com/news/singapore/covid-19-bangladeshi-worker-case-42-video-mwc-12756960?cid=fbcna\u00a0\u2026 pic.twitter.com/dQU3fDmPp0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263587529212563456": {
+        "datetime": 1590097717000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "While\u00a0trust in official media sources remains high in Singapore, six in 10 of the participants in a local study\u00a0have\u00a0received fake news about\u00a0COVID-19 on social media.\n.\n https://www.channelnewsasia.com/news/singapore/fake-covid-19-news-study-ncid-messaging-platforms-whatsapp-12756084?cid=fbcna\u00a0\u2026 pic.twitter.com/L7eiCM3NnP",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1262956812724248576": {
+        "datetime": 1590097570000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Breaking news\nAs of 20 august ,MOH has confirmed an additional 100 local covid -19 infections in singapore with another cluster formed at the star vista during a NDP evening show.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263585333553197059": {
+        "datetime": 1590097194000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "\ud835\udde0\ud835\udddc\ud835\uddda\ud835\udde5\ud835\uddd4\ud835\udde1\ud835\udde7 \ud835\uddea\ud835\udde2\ud835\udde5\ud835\uddde\ud835\uddd8\ud835\udde5\ud835\udde6\n\n1. Covid-19 Migrant Support Coalition\n http://bit.ly/covidmigrant\u00a0\n\n2. Saleemah Ismail & The Food Bank Singapore : Iftar Meals for Migrant Workers\n http://giving.sg/campaigns/iftarformigrantworkers\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263583823691800577": {
+        "datetime": 1590096834000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Exclusive: New Covid-19 cases in 465 Singapore,one more death...  https://exclusive-2020.blogspot.com/2020/05/new-covid-19-cases-in-465-singaporeone.html?spref=tw\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1254004789488185344": {
+        "datetime": 1590096609000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "APPLICATION: Aggressive sewage case-finding in cities or towns with a low prevalence of COVID-19.\n\nEXAMPLES:  rn include Wuhan city in Hubei province, Central China\ud83c\udde8\ud83c\uddf3; & Northeast China\ud83c\udde8\ud83c\uddf3 \u2935\ufe0f\n\nPotential applications elsewhere in China\ud83c\udde8\ud83c\uddf3, S. Korea\ud83c\uddf0\ud83c\uddf7, Singapore\ud83c\uddf8\ud83c\uddec, Taiwan\ud83c\uddf9\ud83c\uddfc ...\n\n53/n  pic.twitter.com/d6S03NKljE",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263582545544798208": {
+        "datetime": 1590096529000,
+        "likes": "0",
+        "retweets": "2",
+        "tweet": "#AI: helps Exterminate! UV robot sent to Singapore mall to zap coronavirus #COVID\n http://a.msn.com/01/en-us/BB14puEx?ocid=sms\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263574064259649537": {
+        "datetime": 1590094507000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "What country would people recommend for registering #cryptocurrency businesses at the moment? Is #Malta still the chosen destination or #Singapore or other? I am from #uk but its now a joke of a country and #bankrupt. When #Covid is done ready to move somewhere progressive. \ud83c\udf0d\u2708\ufe0f",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263571557395435523": {
+        "datetime": 1590093909000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Covid-19 treatments:  Which health systems (or sub-systems) have been using Remdesivir or Kaletra (Lopinavir with Ritonavir) or beta interferon to treat Covid-19 and with what outcomes? Taiwan? Germany? Hong Kong? Singapore?",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263569297948979201": {
+        "datetime": 1590093371000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "@KarenHQuintos \nHi karen, Singapore permanent resident here currently stranded in India due to covid. Holding a Dell laptop bought from Singapore with nbd premium support. India team is not helping with part replacement. Please help, service code 15599578034.. Thanks.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263282623939477511": {
+        "datetime": 1590093115000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "The question is WHY South Korea, Singapore and other countries can control the COVID-19 virus BUT USA CANNOT?!",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263568310387515392": {
+        "datetime": 1590093135000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "I ordered outfits from Singapore on March 12\nMan! Covid got my items stuck till NOW \nI\u2019m so PISSED",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263566159141654530": {
+        "datetime": 1590092622000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "\"According to the prediction by the Singapore-based university, COVID-19 may 97% end in India by around May 21.\" #COVID\u30fc19 pic.twitter.com/tE6Flrwj9C",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263564604497637378": {
+        "datetime": 1590092252000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Looking comparatively at the cases of #Covid_19 and the US, Sweden, Singapore, South Korea, the UK, Russia, and Brazil, it becomes clear that there is not one political system/model that is uniquely good, or uniquely bad, at handling an epidemic of this magnitude.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263559635996377088": {
+        "datetime": 1590091950000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Hi there, we will continue to adjust our services in response to the Covid-19 outbreak. You may wish to stay tuned to our website or social media pages for updates. Thank you.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1259127342699622400": {
+        "datetime": 1590091940000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Hi there, in view of the high volume of requests due to the Covid-19 outbreak, we seek your understanding that the refund process may be delayed. We are prioritising the processing of refunds based on the earliest scheduled departure dates. Thank you for your patience.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263562848745095168": {
+        "datetime": 1590091833000,
+        "likes": "2",
+        "retweets": "2",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  http://dlvr.it/RX6Mw1\u00a0 pic.twitter.com/xKp25pxsZw",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263074221418151936": {
+        "datetime": 1590078519000,
+        "likes": "6",
+        "retweets": "1",
+        "tweet": "How this article published in the NYT puts a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263556557662552071": {
+        "datetime": 1590090333000,
+        "likes": "8",
+        "retweets": "1",
+        "tweet": "#Video: #Robot dog #Spot on #Covid_19 park patrol in #Singapore:\n https://www.khaleejtimes.com/coronavirus-pandemic/video-robot-dog-spot-on-covid-19-park-patrol-in-singapore\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263555421740163076": {
+        "datetime": 1590090062000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Man Sentenced To Death On Zoom Call For Drug Offense In Singapore\n\nAnother COVID-dystopian first: punishment of death by hanging via Zoom call...\n\n https://www.zerohedge.com/political/man-sentenced-death-zoom-call-drug-offense-singapore\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263551212177231876": {
+        "datetime": 1590089059000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "So far, Singapore, Vietnam, Taiwan, Germany, New Zealand and South Korea have tackled the threats posed by Covid-19 effectively while the US and Italy have failed. China, too, did better than Western democracies. @alibabakhel https://www.dawn.com/news/1558675\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263537952354824192": {
+        "datetime": 1590088041000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Atlanta, Detroit, Nygeria, Gahana, Singapore, Korea are important growth sites for many of us as we push forward into a COVID new world. I love how more inclusive of remote work we're becoming, finally!",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263545790154379264": {
+        "datetime": 1590087766000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Live music venues in Singapore offering food delivery during COVID-19 \u2013\u00a0Bandwagon  https://popuculture.com/live-music-venues-in-singapore-offering-food-delivery-during-covid-19-bandwagon/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263543517009317894": {
+        "datetime": 1590087224000,
+        "likes": "3",
+        "retweets": "4",
+        "tweet": "Dr. Perl says there are indications that COVID-19 might be seasonal, but it is still spreading in Singapore where it is warm.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263543486286106624": {
+        "datetime": 1590087217000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: School cannot be \u2018voluntary\u2019, not good for morale of students and teachers, says Ong Ye\u00a0Kung  https://localnewsingapore.com/covid-19-school-cannot-be-voluntary-not-good-for-morale-of-students-and-teachers-says-ong-ye-kung/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263540155710763008": {
+        "datetime": 1590086423000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts.  https://medium.com/@ivanhong_25005/how-the-new-york-times-put-a-racist-spin-on-singapore-s-covid-19-efforts-632c0e806ee4\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263529997895114753": {
+        "datetime": 1590084884000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "I\u2019ve been wondering when we\u2019re supposed to get the 11th season. COVID-19 hampering production? I\u2019ve been watching Masterchef\u2019s Canada, Australia and Singapore. All interesting because each sets up their competitions differently. It\u2019s always fun to see Gordon\u2019s mentor judge. \ud83d\ude31\ud83d\ude28",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263532738721779712": {
+        "datetime": 1590084654000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports highest number of new COVID-19 cases among citizens or PRs in more than 3\u00a0weeks  https://localnewsingapore.com/singapore-reports-highest-number-of-new-covid-19-cases-among-citizens-or-prs-in-more-than-3-weeks/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263531289468039169": {
+        "datetime": 1590084309000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263529187505127429": {
+        "datetime": 1590083808000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263526837088485377": {
+        "datetime": 1590083247000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "My response to this article as a thread (1/...)\n\nHow the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263519322804113408": {
+        "datetime": 1590083189000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "narrative smacks of colonial lingo - just 8 dollars - comforting the west world - okay we are much better off than just 8 dollar existence of underlings in Asia .#racist And amazing (is that so?) coming from #Singapore (Asia) news outlet  #SriLanka #coronavirus #Covid_19",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263521842838614017": {
+        "datetime": 1590082057000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Four residents at Orange Valley Nursing Home in Simei found to have COVID-19 after\u00a0testing  https://localnewsingapore.com/four-residents-at-orange-valley-nursing-home-in-simei-found-to-have-covid-19-after-testing/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263521664312078337": {
+        "datetime": 1590082014000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "\ud83d\udc4d\n\nHow the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263520897127911425": {
+        "datetime": 1590081831000,
+        "likes": "3",
+        "retweets": "3",
+        "tweet": "Man sentenced to death in Singapore via Zoom\n#Covid_19 https://gbafrique.com/news/pages.php?news=5473&title=Man%20sentenced%20to%20death%20in%20Singapore%20via%20Zoom&title1=3\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263519060270211076": {
+        "datetime": 1590081393000,
+        "likes": "2",
+        "retweets": "2",
+        "tweet": "A shopping mall in #Singapore has begun utilize a newly developed UV robot to fight the #COVID_19 The robot was developed by the PBA Group and has been dubbed the Sunburst UV Bot. pic.twitter.com/vs4oWgW6H5",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263518805826736128": {
+        "datetime": 1590081333000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Green Energy:  Singapore postpones packaging reduction deadline for companies in light of Covid-19 disruption  http://dlvr.it/RX5srT\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263518568903331846": {
+        "datetime": 1590081276000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports 448 new COVID-19 cases  https://nnn.com.ng/singapore-reports-448-new-covid-19-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263518440066875398": {
+        "datetime": 1590081245000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Our latest webinar, \u201cCOVID-19 Lessons Learned\u201d featured three public health experts from Singapore,S. Korea, Vietnam. If you missed the webinar, you can check out their discussion on respective countries\u2019 best practices in response to the COVID-19 pandemic\n https://www.usasiainstitute.org/asiaaunscripted/covid19highlight\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263518401957371905": {
+        "datetime": 1590081236000,
+        "likes": "3",
+        "retweets": "0",
+        "tweet": "Communications During the COVID-19 Crisis. A look at grappling with the new normal via @mikeliew30, @infomasia. Part 2 in a series from @Worldcom_PR that looks at the future of PR from a global perspective. A great read from Singapore.  https://bwnews.pr/2LSWPIF\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263497648771743745": {
+        "datetime": 1590081164000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Hi Benjamin, our travel waiver policy covers travel up to 30 June 2020 only. We will continue to review our travel waiver policy as we monitor and assess the impact of the Covid-19 outbreak globally. (1/2)",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263517698727673856": {
+        "datetime": 1590081069000,
+        "likes": "22",
+        "retweets": "22",
+        "tweet": "Singapore reports highest number of new COVID-19 cases among citizens or PRs in more than 3 weeks  https://cna.asia/2zViAoD\u00a0 pic.twitter.com/s2jgl97ja2",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263517692910137344": {
+        "datetime": 1590081067000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "New studies by local researchers explore social impact of Covid-19 outbreak in Singapore  http://dlvr.it/RX5rqw\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263516574058598401": {
+        "datetime": 1590080800000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts.  https://medium.com/@ivanhong_25005/how-the-new-york-times-put-a-racist-spin-on-singapore-s-covid-19-efforts-632c0e806ee4\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263516508816359424": {
+        "datetime": 1590080785000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports highest number of new COVID-19 cases among citizens or PRs in more than 3 weeks  https://www.channelnewsasia.com/news/singapore/covid-19-highest-singapore-pr-cases-preschool-family-clusters-12757504#.Xsa1CsOY80w.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263514896014114821": {
+        "datetime": 1590080400000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Watch @maya206, Senior Fellow @orfonline in conversation with @ShashiTharoor, Member of Parliament in Lok Sabha and @MohanCRaja, Director of ISAS, National University of Singapore, discuss \u275bCOVID-19 and The New World Disorder\u275c \n\n\u27a1  https://bit.ly/3ey9jCX\u00a0 pic.twitter.com/3TLGcGJw45",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263513874004934662": {
+        "datetime": 1590080157000,
+        "likes": "16",
+        "retweets": "2",
+        "tweet": "\ud83c\udf93 Peter Lim -Singapore Olympic Foundation scholarship scheme celebrates \ud83d\udd1f years! \ud83e\udd73\n\u27a1\ufe0f http://bit.ly/PeterLimSchoolarship\u00a0\u2026\n\nThe initiative is another example of the constant philanthropic work of Peter Lim, which have included recent activities to help in the fight against the COVID-19 \ud83d\udcaa\ud83c\udffd  pic.twitter.com/wtQmtrb65f",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263463835261960199": {
+        "datetime": 1590079974000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "higher volume of requests due to the Covid-19 outbreak. You will receive an email confirmation from us once your refund is processed. Thank you. (2/2)",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263513026738585600": {
+        "datetime": 1590079955000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Grocery Shopping in #Singapore during #circuitbreakersg Circuit-Breaker  #Covid_19  https://mysingapore65.blogspot.com/2020/05/grocery-shopping-in-singapore-during.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263512213534281729": {
+        "datetime": 1590079761000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports 448 new COVID-19 cases and 23rd death  https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-death-singaporean-preschool-orange-valley-12755016#.XsaxDRSXeWE.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263511186009554945": {
+        "datetime": 1590079516000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports 448 new COVID-19 cases and 23rd death - \u2066@ChannelNewsAsia\u2069   https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-death-singaporean-preschool-orange-valley-12755016\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263510987518296064": {
+        "datetime": 1590079468000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#world #Covid_19 #CoronavirusOutbreak\n#Singapore reports 448 new COVID-19 cases and 23rd death  https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-death-singaporean-preschool-orange-valley-12755016#.XsavxlFM47w.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263510964281860097": {
+        "datetime": 1590079463000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0 \nTHIS IS SUCH A GOOD READ! \ud83d\udc4d\ud83c\udffb",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263510724674019330": {
+        "datetime": 1590079406000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Four Singaporeans part of family linked to Cochrane Lodge II dormitory\u00a0cluster  https://localnewsingapore.com/covid-19-four-singaporeans-part-of-family-linked-to-cochrane-lodge-ii-dormitory-cluster/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263510278970454017": {
+        "datetime": 1590079300000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19 -  https://goo.gl/alerts/dqYQj\u00a0 #GoogleAlerts",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263509194369404928": {
+        "datetime": 1590079041000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Better days are coming \u2728 #itsgonnabemay #2020WasFunUntil #Covid_19 #clapforourkeyworkers #clapforkeyworkers #prayforwestbengal #bbcnews #StayHome #CoronaWillEndSoon #CoronaUpdate #Singapore @SGAG_SG @MothershipSG #CoronaVirusUpdate #level4lockdown #FridayThoughts #thursdayvibes pic.twitter.com/Zz21lIP21S",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263509117676773376": {
+        "datetime": 1590079023000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Exclusive: COVID-19 (singapore)  https://exclusive-2020.blogspot.com/2020/05/covid-19-singapore.html?spref=tw\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263507376184987649": {
+        "datetime": 1590078607000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@senatemajldr Worth keeping in mind! If #Trump & @GOP friends acted 2 weeks earlier- thousands would still be alive. Fanned by #FoxNews all IN DENIAL! Today Deaths per 1 million from #COVID  Vietnam=0  Taiwan=0.3  HongKong=  0.5  China=3  Singapore= 4  S. Korea=5  Japan=6  US=287",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263506154988007424": {
+        "datetime": 1590078316000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "The number of COVID-19 cases in #Singapore reached nearly 30,000 on Thursday with 448 new cases reported and 23 deaths so far.  pic.twitter.com/kA9f10Ar9u",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263506128379547650": {
+        "datetime": 1590078310000,
+        "likes": "8",
+        "retweets": "0",
+        "tweet": "Big shoutout to Covid-19 for cancelling our trip to New Zealand, Bali, Fiji and Singapore. 2020 was NOT the year to have lots planned \ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263505360410853377": {
+        "datetime": 1590078127000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Communications During the COVID-19 Crisis. A look at grappling with the new normal via @mikeliew30, @infomasia. Part 2 in a series from @Worldcom_PR that looks at the future of PR from a global perspective. A great read from Singapore.  https://bwnews.pr/2AK11br\u00a0 #Comms #PR #Agency",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263504908101341185": {
+        "datetime": 1590078019000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Worth keeping in mind! If @realDonaldTrump had acted only 2 weeks earlier- thousands would be still alive. But #Trump was IN DENIAL! Today Deaths per 1 million frm #COVID  Vietnam = 0  Taiwan 0.3  Hong Kong  0.5  China  3  Singapore  4   S. Korea  5  Japan  6   U.S = 287 (so far)",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263504469276254208": {
+        "datetime": 1590077914000,
+        "likes": "5",
+        "retweets": "16",
+        "tweet": "Singapore reports 448 new COVID-19 cases and 23rd death  https://cna.asia/2LMcrxV\u00a0 pic.twitter.com/WbYWJIORBR",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263504185825337344": {
+        "datetime": 1590077847000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "we need these patrolling our streets. They could also help at restaurants delivering food.\n\nSingapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19 | Smart News | Smithsonian Magazine  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263502963101728770": {
+        "datetime": 1590077555000,
+        "likes": "22",
+        "retweets": "7",
+        "tweet": "ENHANCEMENT TO CREW CHANGE FOR CARGO SHIPS UNDER SPECIAL CIRCUMSTANCES IN THE PORT OF SINGAPORE, TO MINIMISE RISK OF COMMUNITY SPREAD OF THE CORONOVIRUS DISEASE 2019 (COVID-19) IN SINGAPORE @seaandcoast1 @MPA_Singapore  https://www.mpa.gov.sg/web/portal/home/port-of-singapore/circulars-and-notices/detail/628c6a74-b0a9-4dc4-9e23-fd1687601825#.Xsan9g4RELc.twitter\u00a0\u2026 pic.twitter.com/63x5am2dFX",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263501291499728896": {
+        "datetime": 1590077157000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19 - Smithsonian Magazine  https://apple.news/ArnHg_RbLQsmz8mdcUlrd8w\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263501043880660994": {
+        "datetime": 1590077098000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Good news! Our Singapore Foundation has begun receiving donations on behalf of our newest member, @uniofadelaide. Their Singaporean alumni have shown real support to help those affected by COVID-19.\nOur Emergency Affiliate Funds are open for applications:  https://chapel-york.com/emergency-affiliate-memberships/#_Learn\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263500086341799936": {
+        "datetime": 1590076869000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "With four of its residents infected, Orange Valley Nursing Home at Simei is now a COVID-19 cluster (UPDATE)  https://sg.news.yahoo.com/covid-19-singapore-reports-new-cases-071803302.html\u00a0\u2026 pic.twitter.com/32PXBQOq98",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263500034995302400": {
+        "datetime": 1590076857000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports 448 new COVID-19 cases and 23rd\u00a0death  https://localnewsingapore.com/singapore-reports-448-new-covid-19-cases-and-23rd-death/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263499926517870592": {
+        "datetime": 1590076831000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "International Covid-19 news: UK starts treatment trials, Singapore uses robot dog for physical distancing\n  http://www.newssummedup.com/a/08khif\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263499038923653131": {
+        "datetime": 1590076620000,
+        "likes": "1",
+        "retweets": "3",
+        "tweet": "Medical researchers in the Netherlands have signed up 1,500 people who have recovered from COVID-19 to donate blood as part of an international push to develop a treatment for the virus from their plasma.\n\n https://bit.ly/2ASaZrD\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263498539205705728": {
+        "datetime": 1590076501000,
+        "likes": "2",
+        "retweets": "2",
+        "tweet": "COVID-19 News: European Health Chief Says Second Wave Of SARS-CoV-2 Is Imminent And Going To Be Worse.. https://www.thailandmedical.news/news/covid-19-news-european-health-chief-says-second-wave-of-sars-cov-2-is-imminent-and-going-to-be-worse\u00a0\u2026\n#Corona #CoronaUpdate #CoronaVirusUpdate #Newsnight #NewsPicks #USD #NewYork #UK #Eurovision #Europe #France #Singapore #IndiaFightsCOVID19 #IndianMedia pic.twitter.com/denqZ11RYT",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263498241188016128": {
+        "datetime": 1590076430000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Sarawak takes cue from COVID-19 second waves in Hokkaido, Singapore \u2013\u00a0Uggah  https://www.borneotoday.net/sarawak-takes-cue-from-covid-19-second-waves-in-hokkaido-singapore-uggah/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263497850861899782": {
+        "datetime": 1590076336000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Great story illustrating how exclusion--not just inequality--led to a blind spot in Singapore's handling of covid. Cleaving the world between the citizens/skilled and low-wage/immigrant labor force caused the gov't to miss the danger.\n https://www.nytimes.com/2020/05/20/magazine/singapore-coronavirus.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263497286878769152": {
+        "datetime": 1590076202000,
+        "likes": "0",
+        "retweets": "3",
+        "tweet": "COVID-19: Men who work at Jurong Penjuru dorm, NTFGH food court among 13 Singaporean cases (UPDATE)  https://sg.news.yahoo.com/covid-19-singapore-reports-new-cases-071803302.html\u00a0\u2026 pic.twitter.com/nXNPhMF825",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263496670039248898": {
+        "datetime": 1590076055000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263496606805970944": {
+        "datetime": 1590076040000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Covid-19 pushes Genting into 'red'  http://www.msn.com/en-sg/money/topstories/covid-19-closures-push-genting-into-the-red-with-rm133m-quarterly-loss/ar-BB14pYxx?ocid=ob-tw-ensg-491\u00a0\u2026 pic.twitter.com/ShZxnKnm96",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263495939945369600": {
+        "datetime": 1590075881000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19\n\n https://flip.it/hlEBWr\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263495381201059841": {
+        "datetime": 1590075748000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "International Covid-19 news: UK starts treatment trials, Singapore uses robot dog for physical\u00a0distancing  https://hindurja.org.in/worldwide-covid-19-information-uk-begins-therapy-trials-singapore-makes-use-of-robotic-canine-for-bodily-distancing/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263429284053618689": {
+        "datetime": 1590075561000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "In Singapore \n1) Covid +ve : urgent eg:obstr'n,stent with PPE \nBring back when -ve\n2)Covid -ve: No contraindication to do if Ot com allows\n3)-ve surgeon worry: PPE+dispos+laser Do ECIRS instead / no pneumatic\nComplete stag: wait \nUrine : No E/O +ve except 2 wishy-washy study",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263494504696381440": {
+        "datetime": 1590075539000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "A recent study of people in Singapore who had contracted severe acute respiratory syndrome (SARS) in the early aughts found they retain \u201csignificant levels of neutralizing antibodies\u201d for nine to 17 years after initial infection #PositiveCovidNews",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263493804415266817": {
+        "datetime": 1590075372000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263493229275537411": {
+        "datetime": 1590075235000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "COVID-19: S'pore reports 448 new cases; 13 S'poreans including family cluster linked to Cochrane Lodge II dorm (UPDATE)  https://sg.news.yahoo.com/covid-19-singapore-reports-new-cases-071803302.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263493226356342787": {
+        "datetime": 1590075234000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263492460166160384": {
+        "datetime": 1590075051000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines,\u00a0community centres from May 26 -  https://iwan1979.com/post/618736920250449920/covid-19-singapore-to-distribute-improved\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263491855733276674": {
+        "datetime": 1590074907000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. \u2066@Megankstack\u2069 \u2066 https://medium.com/@ivanhong_25005/how-the-new-york-times-put-a-racist-spin-on-singapore-s-covid-19-efforts-632c0e806ee4\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263491787026575360": {
+        "datetime": 1590074891000,
+        "likes": "4",
+        "retweets": "2",
+        "tweet": "According to  https://worldometers.info/coronavirus/\u00a0 the top 10 countries by total cases of COVID per capita w more than 10,000 total cases are\n\nQatar*, Spain*, Iceland*, Singapore*, Ireland*, Belgium, USA*, Kuwait*, Italy, UK*\n\n* has [\u03b8] in inventory (attested in 4% of languages)\n\n@grahburton https://twitter.com/lisa_b_davidson/status/1263474861676154880\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263489889896550400": {
+        "datetime": 1590074438000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#SingaporeNewClusters: 73-year-old S'porean man dies of Covid-19; new cluster of 4 residents from #OrangeValley Nursing Home in Simei, Singapore News & Top Stories - The Straits Times  https://www.straitstimes.com/singapore/448-new-covid-19-cases-in-singapore-bringing-total-to-29812\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263489802839535616": {
+        "datetime": 1590074418000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "COVID-19: 3 preschool staff test positive, affected schools identified by MOH (UPDATE)  https://sg.news.yahoo.com/3-preschool-staff-tests-positive-for-covid-19-during-ongoing-swab-tests-ecda-090957348.html\u00a0\u2026 pic.twitter.com/20HSr0PP3P",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263489123895009280": {
+        "datetime": 1590074256000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "448 new Covid-19 cases in Singapore, total now 29,812  https://www.thestar.com.my/aseanplus/aseanplus-news/2020/05/21/448-new-covid-19-cases-in-singapore-total-now-29812\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263488182223593473": {
+        "datetime": 1590074031000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19 - Smithsonian Magazine  https://apple.news/ArnHg_RbLQsmz8mdcUlrd8w\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263487874139394053": {
+        "datetime": 1590073958000,
+        "likes": "17",
+        "retweets": "10",
+        "tweet": "Hong Kong-\n\n*Total COVID deaths: 4\n*Unemployment: 4.2%\n\nSingapore-\n\n*Total COVID deaths: 22\n*UE: 3.5%\n\nSouth Korea-\n\n*Total COVID deaths: 263\n*UE: 3.8%\n\nTaiwan-\n\n*Total COVID deaths: 7\n*Unemployment: 3.7%\n\nUnited States-\n\n*Total COVID deaths: 94,968\n*Unemployment: 14.7%",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263484648669057025": {
+        "datetime": 1590073931000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "wait covid leave singapore first \ud83d\ude14\ud83d\ude14",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263487101523255298": {
+        "datetime": 1590073833000,
+        "likes": "41",
+        "retweets": "9",
+        "tweet": "\u2022 Robot deployed in a Singapore park to ensure people observe physical distancing amid threat of COVID-19  https://bit.ly/3bNWrG1\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263486202574823425": {
+        "datetime": 1590073559000,
+        "likes": "1",
+        "retweets": "3",
+        "tweet": "JUST IN : A 73 year-old male Singapore Citizen has passed away from complications due to COVID-19 infection on 21 May 2020.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263485744644947974": {
+        "datetime": 1590073450000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "\ud83c\uddf8\ud83c\uddec 'How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts'  by Ivan Hong \ud83c\uddf8\ud83c\uddec  \n\n\"I\u2019m sick and tired of reading the racially-tinted commentary Western journalists continue to crank out every other day.\" Ivan says.\n https://link.medium.com/Va7uDyQjF6\u00a0 https://twitter.com/Megankstack/status/1263074221418151936?s=20\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263485459134636032": {
+        "datetime": 1590073398000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "The statement underscores the global community\u2019s resolve for markets and global supply chains to stay open, and lays the groundwork for an inclusive long-term recovery from the COVID-19 pandemic. (2/2)\n\n https://www.facebook.com/Vivian.Balakrishnan.Sg/posts/10156824695001207\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263485145484410881": {
+        "datetime": 1590073307000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore mall uses UV light robot to take on COVID-19!  http://www.msn.com/en-us/video/science/blinded-by-the-uv-light-singapore-mall-uses-uv-light-robot-to-take-on-covid-19/vi-BB14pQcg?ocid=ob-tw-enus-1521842279219\u00a0\u2026 pic.twitter.com/Gbd7Ehvopk",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263485005793316865": {
+        "datetime": 1590073274000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "A robot \"dog\" is encouraging people to keep social distancing amid coronavirus #coronavirus #covid #covid19 #pandemic #socialdistancing #robot #robotdog #singapore\n http://ow.ly/8bk650zLB7f\u00a0 pic.twitter.com/no8Tlnpqx4",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263484772208324609": {
+        "datetime": 1590073218000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "New post (Singapore postpones packaging reduction deadline for companies in light of Covid-19 disruption) has been published on Phuket Travel Tips And Advise -  https://www.hoteldealsphuket.com/phukettraveltips/singapore-postpones-packaging-reduction-deadline-for-companies-in-light-of-covid-19-disruption/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263484752524345344": {
+        "datetime": 1590073214000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "One more person has died of Covid-19 in Singapore, taking the city state\u2019s total death toll from the ep.....of crises. Check on  https://scwacy.com/read-blog/3031\u00a0 @scwacy pic.twitter.com/hJtSMNzupT",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263484206698467329": {
+        "datetime": 1590073083000,
+        "likes": "1",
+        "retweets": "3",
+        "tweet": "73-year-old man dies from COVID-19 linked cause, 23rd fatality in Singapore  https://sg.news.yahoo.com/covid-19-73-yearold-man-dies-from-coronaviruslinked-cause-23rd-fatality-in-singapore-143609801.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263382300269719557": {
+        "datetime": 1590073071000,
+        "likes": "3",
+        "retweets": "0",
+        "tweet": "We\u2019re finding the same in Singapore, even on social media, from 11.6% actively avoiding COVID-19 info on social media in late Feb to 20.7% saying they do so in early May!",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263481237622206467": {
+        "datetime": 1590072618000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "The figures are also misleading - between November and January - there were no covid-19 deaths, so the comparison doesnt make any sense. The mistake was not responding early like Taiwan, Singapore - whi didn't have much of a lockdown.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263482248054992897": {
+        "datetime": 1590072616000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines, community centres from May 26  https://www.channelnewsasia.com/news/singapore/covid-19-coronavirus-where-collect-reusable-mask-improved-12757066#.XsaVITxaJ6E.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263482132783120385": {
+        "datetime": 1590072589000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "If you had managed the Covid 19 crisis like Singapore, Japan, Taiwan or Hong Kong, you wouldn't have had these tens of thousands of deaths in the USA. It is easy to assign a scapegoat to another state, the hardest part is winning the war, even with weapons and missiles. Checkmate  https://twitter.com/realDonaldTrump/status/1263282623939477511\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263481714405453829": {
+        "datetime": 1590072489000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "448 new cases and 1 new death in Singapore \n\n[15:48 GMT] #coronavirus #CoronaVirusUpdate #COVID19 #CoronavirusPandemic",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263481596968988675": {
+        "datetime": 1590072461000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Zero deaths. It's an achievement that governments from the United States to Italy can only dream of. While cases of COVID-19 shoot up in wealthy Singapore and elsewhere in South-East Asia, Vietnam is an unlikely outlier.\n#COVID19Pandemic #SuccessStory https://www.abc.net.au/news/2020-05-13/coronavirus-vietnam-no-deaths-success-in-south-east-asia/12237314\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263481205803999232": {
+        "datetime": 1590072368000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports 448 new COVID-19 cases and 23rd death  https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-singaporeans-prs-13-pre-school-12755016#.XsaULPX4hs8.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263481004171427840": {
+        "datetime": 1590072320000,
+        "likes": "16",
+        "retweets": "14",
+        "tweet": "Here\u2019s the 21 May update on the COVID-19 situation in Singapore\n\nFor more:  http://go.gov.sg/moh21may\u00a0 pic.twitter.com/NcrFN5ZkYm",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263480871350231042": {
+        "datetime": 1590072288000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19 |  https://sciencespies.com/news/singapore-is-using-a-robotic-dog-to-enforce-proper-social-distancing-during-covid-19/\u00a0\u2026\n#News pic.twitter.com/LzC42lj0nN",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263480696896536576": {
+        "datetime": 1590072247000,
+        "likes": "8",
+        "retweets": "7",
+        "tweet": "As of 21 May 2020, 12pm, we have confirmed and verified an additional 448 cases of COVID-19 infection in Singapore. Breakdown: 0 imported, 14 cases in the community & 434 Work Permit holders residing in dorms.  https://www.moh.gov.sg/news-highlights/details/910-more-cases-discharged-448-new-cases-of-covid-19-infection-confirmed\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263480681528619008": {
+        "datetime": 1590072243000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "ICU today dropped to 10. Probably is due to 73 year old death. Hospital Number is about 900 which is a drop from yesterday again. Hopefully Singapore hospital bed usage for Covid will drop faster to allow Medical Team to rest more for long battle ahead.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263479697062551557": {
+        "datetime": 1590072008000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "6 in 10 people in Singapore have received fake COVID-19 news, likely on social media: Survey\n\n https://www.channelnewsasia.com/news/singapore/fake-covid-19-news-study-ncid-messaging-platforms-whatsapp-12756084\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263479525393887238": {
+        "datetime": 1590071967000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "There was also another death. A 73-year-old male Singapore citizen died due to Covid-19 complication on Thursday. He was confirmed to have the virus on April 17 and had a history of hypertension, hyperlipidaemia and hypothyroidism. NCID has contacted the family and is extending",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263452150983786497": {
+        "datetime": 1590071957000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "I\u2019d say that they are convinced about the \u201cSingapore on the Thames\u201d model. I also believe that No Deal May not be as peaceful inside the Tories as it looks, so there\u2019s that degree of Bluff. There is a deeply entrenched conviction in British exceptionalism and COVID provides cover",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263479342195236866": {
+        "datetime": 1590071924000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Citi Singapore returns COVID-19 Jobs Support Scheme payouts\n\n https://www.channelnewsasia.com/news/business/jobs-support-scheme-jss-citibank-returns-payouts-covid-19-12755700\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263477950932025344": {
+        "datetime": 1590071592000,
+        "likes": "3",
+        "retweets": "1",
+        "tweet": "Some joker wrote a Medium article titled \u201cHow the New York Times put a racist spin on Singapore\u2019s COVID-19 efforts\u201d and I was SO ready to enjoy it. Alas, reader, it turned out to focus less on the orientalist tropes present in the NYT article (1/3)  pic.twitter.com/HfXQAquTSi",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1251119009770209280": {
+        "datetime": 1590071506000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Singapore became complacent. That doesn't work for #Covid_19. It won't work for us either.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263477307580260357": {
+        "datetime": 1590071439000,
+        "likes": "0",
+        "retweets": "2",
+        "tweet": "UPDATE: Breakdown of the 448 new COVID-19 cases  https://sg.news.yahoo.com/covid-19-singapore-reports-new-cases-071803302.html\u00a0\u2026 pic.twitter.com/hZN7YxCfhW",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263476239022645254": {
+        "datetime": 1590071184000,
+        "likes": "2",
+        "retweets": "1",
+        "tweet": "\"INTERNATIONAL PORTAL\"\ud83c\udf0f\ud83c\udf0e\ud83c\udf0d\nToday we are sharing this interesting article that explains some of the realities on the effect that Covid-19 has on the Singapore arts sector, and how we can support it for the future.\n https://www.todayonline.com/commentary/helping-singapore-arts-sector-survive-covid-19-crisis\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263474827869986818": {
+        "datetime": 1590070847000,
+        "likes": "38",
+        "retweets": "24",
+        "tweet": "[JUST IN] Case 4689, a 73 year-old male Singapore Citizen, has passed away from complications due to Covid-19 infection on May 21. He was confirmed to have Covid-19 on Apr 17, and had a history of hypertension, hyperlipidaemia and hypothyroidism.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263466137410580482": {
+        "datetime": 1590068775000,
+        "likes": "56",
+        "retweets": "27",
+        "tweet": "If the US had the per capita COVID death rate of Taiwan, it would have had a total of 97 deaths rather than almost 94K. \n\nThe per capita death of Hong Kong: 177 total deaths, Singapore: 1245 deaths, South Korea: 1698 deaths.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263473343363272704": {
+        "datetime": 1590070493000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@NYGovCuomo sir - the country of Singapore with a population close to NY city reported a TOTAL loss of 22 lives due to Covid in 3 months. What did we get so wrong ?  We still report over a 100 a day. How do we make sure it doesn\u2019t happen again?",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263473038336626693": {
+        "datetime": 1590070421000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Just or harsh? #Singapore #Dotherightthing Josephine Teo takes legal action after 'baseless' corruption claims over COVID-19 community care facilities  https://sg.news.yahoo.com/government-debunks-profiteering-allegations-in-building-of-community-care-facility-by-surbana-jurong-125223208.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263471826765787137": {
+        "datetime": 1590070132000,
+        "likes": "2",
+        "retweets": "3",
+        "tweet": "A brilliant, powerfully argued and much needed riposte to gonzo reporting dressed up as serious journalism by NY Times. \n\nHow the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263469430308298756": {
+        "datetime": 1590069560000,
+        "likes": "14",
+        "retweets": "6",
+        "tweet": "ASEAN #COVID19 Most Recovered cases & %.\n\nSingapore 11,207  37.6%\nMalaysia   5,796  82.1%\nIndonesia    4,838  24.0%\nPhilippines  3,000  22.3%\nThailand      2,897  95.4%\nVietnam        264   81.5%\nBrunei           136   96.5%\nCambodia     122  100.0%\nMyanmar      108   54.3%",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263468709567442951": {
+        "datetime": 1590069389000,
+        "likes": "3",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263468101544431628": {
+        "datetime": 1590069244000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "\u201cHow the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts.\u201d by Ivan Hong\n https://link.medium.com/E4N4FEaBF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263467352873668613": {
+        "datetime": 1590069065000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore's Covid-19 circuit breaker ends on June 1; economy to reopen in three phases  https://str.sg/JA6C\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263466783236935682": {
+        "datetime": 1590068929000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts.  https://ift.tt/3g3cnrg\u00a0 By Ivan Hong By Ivan Hong",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263466688839901187": {
+        "datetime": 1590068907000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Recommended read on @Medium: \u201cHow the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts.\u201d  https://ift.tt/36qxPlO\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263466415912255492": {
+        "datetime": 1590068842000,
+        "likes": "8",
+        "retweets": "6",
+        "tweet": "TODAY at 5pm on #COVIDCalls my guest Sulfikar Amir @sociotalker will join me to discuss COVID-19 in Singapore & Indonesia. If you haven't seen his 2016 film \"Healing Fukushima\" you definitely want to check it out.  https://www.teach311.org/2017/03/11/film-healing-fukushima-2016/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263463998487293952": {
+        "datetime": 1590068265000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "It wouldn't be a party without you #BIGOLIVE > Music.   #singapore #stayathome #COVID-19 \n https://slink.bigovideo.tv/DUjgNN\u00a0 pic.twitter.com/1lQcCFNTna",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263462553763688454": {
+        "datetime": 1590067921000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Coronavirus: Singapore's approach to Covid-19 underlines UK flaws  http://ow.ly/MDJw30qI9Og\u00a0 | TES",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263462538324385797": {
+        "datetime": 1590067917000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Coronavirus: Singapore's approach to Covid-19 underlines UK flaws  http://ow.ly/MDJw30qI9Og\u00a0 | TES",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263462325736165383": {
+        "datetime": 1590067867000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263462036211675136": {
+        "datetime": 1590067798000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines, community centres from May 26\n\n https://www.channelnewsasia.com/news/singapore/covid-19-coronavirus-where-collect-reusable-mask-improved-12757066\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263461366968586240": {
+        "datetime": 1590067638000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore postpones packaging reduction deadline for companies in light of Covid-19 disruption  http://www.eco-business.com/news/singapore-postpones-packaging-reduction-deadline-for-companies-in-light-of-covid-19-disruption/\u00a0\u2026 via @ecobusinesscom",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263460423967203328": {
+        "datetime": 1590067413000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore reports 448 new COVID-19 cases, including 13 Singaporeans or PRs\n\n https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-singaporeans-prs-13-pre-school-12755016\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263459839172370435": {
+        "datetime": 1590067274000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore\u2019s Covid-19 case fatality rate is remarkably low. Why?  http://a.msn.com/01/en-gb/BB14o9Cd?ocid=st\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263459777872625664": {
+        "datetime": 1590067259000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263459406244708353": {
+        "datetime": 1590067171000,
+        "likes": "1",
+        "retweets": "4",
+        "tweet": "COVID-19: New reusable mask available for collection from 26 May to 14 June  https://sg.news.yahoo.com/covid-19-new-reusable-mask-available-for-collection-from-26-may-until-14-june-122213703.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263457988452499457": {
+        "datetime": 1590066833000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Coronavirus: Hong Kong, South Korea and Singapore have had no Covid deaths in care ho\u2026  https://wayback.archive.org/web/20200521051307/ https://www.heraldscotland.com/news/18463765.coronavirus-hong-kong-south-korea-singapore-no-care-home-covid-deaths---can-teach-us/?ref=rss\u00a0\u2026 \u279c  https://wayback.archive.org/web/20200521131341/ https://www.heraldscotland.com/news/18463765.coronavirus-hong-kong-south-korea-singapore-no-care-home-covid-deaths---can-teach-us/?ref=rss\u00a0\u2026 pic.twitter.com/zDlKujApnI",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1262971433694593026": {
+        "datetime": 1590066793000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore wanted to make sure he wasn't going to contact COVID-19.  You know how deadly the virus is.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263457445902499842": {
+        "datetime": 1590066703000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "\"Please find the Video of the session moderated by Galen Growth Singapore where the CEO of @DoctorInsta, Amit Munjal along with the CEOs of other Health Tech Companies discuss the Dynamics & Evolution of Health-Tech in the current COVID 19 crisis\u201d\n\n https://youtu.be/D0TkBreYbfw\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263457233897025541": {
+        "datetime": 1590066653000,
+        "likes": "12",
+        "retweets": "2",
+        "tweet": "im crying how the covid website of Singapore includes a clear list of links of exhaustive topics such as symptom checker, jobs portal of affected workers tapos yung hotlines delineated per sector isama mo pa yung printable posters na child-friendly at design consistent SANA OIL",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263453413251014658": {
+        "datetime": 1590065742000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#GBPCAD ROCKS 1.7025>>1.6994, OUR 1ST TP ACHIEVED PROFIT OF 31 PIPS\n\nJoin Us  http://bit.ly/33qp6OS\u00a0\n#Covid_19 #Indonesia #Singapore #Italy #Forextips #Malaysia #Luxembourg #Taiwan #Spain #ChineseSingaporean #China #Singapore #Espa\u00f1ol #ForexUSA #UK #ForexSpain #HongKong #Dubai https://twitter.com/Tanu80563794/status/1263412680070533123\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263453327343247361": {
+        "datetime": 1590065721000,
+        "likes": "9",
+        "retweets": "3",
+        "tweet": "Covid-19 Quarantine experience in Singapore | Luxury Resort  pic.twitter.com/PHAxNf9MgG",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263354685538394112": {
+        "datetime": 1590065612000,
+        "likes": "4",
+        "retweets": "0",
+        "tweet": "How do you explain New Zealand, Taiwan,Thailand,Singapore etc. \ud83e\udd14\n\nDeath rate much lower... how do you explain that? ;they did heavier lifting earlier?\n\nBrexit now Covid... what a mess \ud83d\ude2c\ud83d\ude10",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263452764727721984": {
+        "datetime": 1590065587000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263452578005889024": {
+        "datetime": 1590065543000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "New Article: Singapore Sampling Used Water for Disease Outbreaks Such as Covid-19 \n\n https://tradeforprofit.net/2020/05/singapore-sampling-used-water-for-disease-outbreaks-such-as-covid-19/\u00a0\u2026\n#businessNews May 21, 2020",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263452313898762240": {
+        "datetime": 1590065480000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Uber to shift its APAC HQ from Singapore as COVID-19 impact worsens @Uber #Singapore #Uber #COVID19Pandemic #business #news https://www.fractovia.org/news/uber-to-shift-its-apac-hq-from-singapore-as-covid-19-impact-worsens/8056\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263451331546755072": {
+        "datetime": 1590065245000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Sampling Used Water for Disease Outbreaks Such as\u00a0Covid-19  http://tradeforprofit.net/2020/05/singapore-sampling-used-water-for-disease-outbreaks-such-as-covid-19/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1262200439442821121": {
+        "datetime": 1590064894000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "It's not a global community pandemic and Covid_19 isn't a beach virus, hand sanitizer will take care of a lot. South Korea, Singapore, Hong Kong, had zero care home deaths because they clean door handles, & adopted common sense approach.  pic.twitter.com/G3DLjohExP",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263446848007598081": {
+        "datetime": 1590064176000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore postpones packaging reduction deadline for companies in light of Covid-19 disruption  https://lnkd.in/gmRTmdr\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263445842809311232": {
+        "datetime": 1590063937000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Thread by @cryptonephilim: [THREAD] Is HydroxyChloroquine an effective treatment for COVID-19? * Used as treatment and in clinical studies: CKorea, Singapore, Spain, Belgium, Sweden, France, Brazil, UK, Canada, and US. * Zinc + Zinc Ionophore (Quercetin)\u2026  https://threadreaderapp.com/thread/1242383215693713408.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263445710688718849": {
+        "datetime": 1590063905000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Diverse religious communities across the United States are fighting COVID-\u00ad19 at home & abroad by setting up emergency hospitals, delivering meals, and supporting small businesses.  https://go.usa.gov/xvS4w\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263444792324882432": {
+        "datetime": 1590063686000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "\u2018I am ok now\u2019: Bangladeshi worker whose wife gave birth while he was critically ill with COVID-19 to be moved to community\u00a0hospital  https://localnewsingapore.com/i-am-ok-now-bangladeshi-worker-whose-wife-gave-birth-while-he-was-critically-ill-with-covid-19-to-be-moved-to-community-hospital/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263444791871836160": {
+        "datetime": 1590063686000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "The president depart Abuja tonight for Saudi Arabia, will then proceed to Cuba, Singapore, Indonesia, China, Azerbaijan for bilateral talk and will then end in London for private visit before returning home after 30 days. Thanks for COVID 19. We now know those trips were useless.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263444697000927233": {
+        "datetime": 1590063664000,
+        "likes": "9",
+        "retweets": "5",
+        "tweet": "A Singapore court sentenced a man to death via Zoom \u2013 its first capital punishment during Covid-19\n\n http://goto.bi/Singapore-ruling\u00a0\u2026 pic.twitter.com/WYbPSfjLdQ",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263443995809714182": {
+        "datetime": 1590063496000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore postpones packaging reduction deadline for companies in light of Covid-19 disruption :  https://www.eco-business.com/news/singapore-postpones-packaging-reduction-deadline-for-companies-in-light-of-covid-19-disruption/\u00a0\u2026 #climate",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263416715762958337": {
+        "datetime": 1590063444000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "I think another factor that is underpriced is that some version of Singapore on steriods / Britannia Unchained is given cover by Covid, too. Giving up some workers rights will be sold as patriotic duty or just unaffordable...",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263443239811444736": {
+        "datetime": 1590063316000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore postpones packaging reduction deadline for companies in light of #Covid-19 disruption #waste #plasticpollution http://www.eco-business.com/news/singapore-postpones-packaging-reduction-deadline-for-companies-in-light-of-covid-19-disruption/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263442198458032128": {
+        "datetime": 1590063068000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@mpjoteo Hi Miss Josephine, we currently still engaged maid agency to look for new FDW. Is there MOM rules that allow us to get refund half of agent service fee? Cause we're  thinking to cancel, afraid bring in more covid-19 imported cases to Singapore. Pls help.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263442039166963713": {
+        "datetime": 1590063030000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Why responsibility must come before freedom in Singapore\u2019s fight against Covid-19  https://www.todayonline.com/commentary/why-responsibility-must-come-freedom-singapores-fight-against-covid-19#.XsZvq_LuMSA.twitter\u00a0\u2026 via @TODAYonline",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263441208400941057": {
+        "datetime": 1590062832000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "Covid-19: 448 more cases in Singapore, tally now at 29,812 - Bernama  https://u.theedgemarkets.com/r/618639\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263440906830729217": {
+        "datetime": 1590062760000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore's Covid-19 circuit breaker ends on June 1; economy to reopen in three phases  https://buff.ly/2WMezM4\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263439585591230464": {
+        "datetime": 1590062445000,
+        "likes": "4",
+        "retweets": "1",
+        "tweet": "When Singapore's circuit breaker period ends on June 1, more businesses and activities will be progressively allowed.\n\nCovid-19 circuit breaker to be lifted: What you can and cannot do from June 2  https://str.sg/JADH\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263439464065531905": {
+        "datetime": 1590062416000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "NHS treatment for the Coronavirus (Covid-19) is free of charge for everyone in the UK. For information about how to find help with healthcare at this time, visit the @UKCISA website:  https://bit.ly/2T9Uf5e\u00a0 cc: @UKinSingapore pic.twitter.com/MsF07BWrXZ",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263439284624711680": {
+        "datetime": 1590062373000,
+        "likes": "3",
+        "retweets": "5",
+        "tweet": "New studies by local researchers explore social impact of Covid-19 outbreak in Singapore  https://bit.ly/2WR772z\u00a0 pic.twitter.com/ISijcpGXST",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263438234161274880": {
+        "datetime": 1590062123000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Wah, the burn...\n\nHow the New York Times\u2019 put a racist spin on Singapore\u2019s COVID-19 efforts. by Ivan Hong  https://link.medium.com/Va7uDyQjF6\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263437533561618433": {
+        "datetime": 1590061956000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "Citi giving back Covid-19 Singapore salary subsidy could be good news for jobs \n\n https://news.efinancialcareers.com/hk-en/3003812/citi-gives-back-covid-19-salary-support-subsidy-to-singapore-government?utm_source=GLOBAL_ENG&utm_medium=SM_TW&utm_campaign=FANS\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1262986737057296385": {
+        "datetime": 1590061602000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "This... got friends angrily compare Vietnam's and Singapore's covid response to our gov't's and why can't we do the same. I carefully explained that one is a communist country, another is more of an authoritarian. They fail to comprehend the difference...lol.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263435760130076678": {
+        "datetime": 1590061533000,
+        "likes": "2",
+        "retweets": "3",
+        "tweet": "Uggah: Sarawak takes cue from Covid-19 second waves in Hokkaido, Singapore  http://dlvr.it/RX4nmV\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263435494429544448": {
+        "datetime": 1590061470000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Latest #singapore #cov\u0131d19 update.. #stayhopeful .. \u270c\ud83c\udffc\u263a\ufe0f\n.\n\n#royaleclassbyrcs\n#singapore_insta\n#singaporelife\n#singapore\ud83c\uddf8\ud83c\uddec\n#coronavirusoutbreak\n#covid_19\n#covid2019\n#staypositive\n#stayhomestaysafe\u2026  https://www.instagram.com/p/CActzivFKHR/?igshid=9hb4keggdl9m\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263435300879073280": {
+        "datetime": 1590061423000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Man sentenced to death in Singapore via Zoom. The Covid-19 pandemic has forced the city to postpone all but 'essential' court cases.  https://www.bbc.com/news/technology-52739676\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263434246657474560": {
+        "datetime": 1590061172000,
+        "likes": "5",
+        "retweets": "0",
+        "tweet": "THE WEVERSE STORE FINALLY RESTOCKED ALL THE THE ALBUMS I NEED TO COMPLETE MY BTS ALBUM COLLECTION BUT IT CANT SHIP TO SINGAPORE BECAUSE OF COVID-19\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\n\nwHY WAS IT NOT RESTOCKED BEFORE  pic.twitter.com/I5GeCa5RyS",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263434042424221698": {
+        "datetime": 1590061123000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines, community centres from May 26  https://www.channelnewsasia.com/news/singapore/covid-19-coronavirus-where-collect-reusable-mask-improved-12757066#.XsZoPvboiKU.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263434023562473474": {
+        "datetime": 1590061119000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "A second wave of COVID-19 infection has hit Singapore. Now, Singapore is on total lockdown. \n\nWhat about Indonesia? Due to people acts, I guess we're still on total mess \ud83e\udd37\u200d\u2642\ufe0f",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263433946097954816": {
+        "datetime": 1590061100000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines, community centres from May\u00a026  https://localnewsingapore.com/covid-19-singapore-to-distribute-improved-reusable-masks-via-vending-machines-community-centres-from-may-26/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263433384312754177": {
+        "datetime": 1590060966000,
+        "likes": "59",
+        "retweets": "54",
+        "tweet": "COVID-19: Singapore to distribute improved reusable masks via vending machines, community centres from May 26  https://cna.asia/2TrEsyN\u00a0 pic.twitter.com/MKK8uTOhft",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263431847737831424": {
+        "datetime": 1590060600000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "ANALYSIS: In Singapore, there have been just 22 Covid deaths in a population the same size as Scotland\u2019s. What can we learn?\n https://www.heraldscotland.com/news/18463765.coronavirus-hong-kong-south-korea-singapore-no-care-home-covid-deaths---can-teach-us/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263430548837371905": {
+        "datetime": 1590060290000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "I wish that we had Singapore's Covid-19 mitigation and treatment scheme.....",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263429557773729793": {
+        "datetime": 1590060054000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "COVID-19 SINGAPORE LATEST UPDATE\n\n#22 DEATHS\n#448 NEW CASES TODAY\n#954 WARDED ICU\n#29, 812 TOLL HITS CASES\n\n#prayforsingapore\ud83c\uddf8\ud83c\uddec\n#prayfortheworldagaistcoronavirus\n#staystrongandhealthy\n#staystrongstaysafeandstayhome\n#breakthecovid19chain pic.twitter.com/VtEfOADiEm",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263427878093553664": {
+        "datetime": 1590059654000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "What's your life going to look like post covid? Only you can make your dream a reality. \nStart a new chapter, experience a new lifestyle and new job in Asia.\nSearch for professional jobs in Singapore at\u2026  https://www.instagram.com/p/CAcqV1wH_WW/?igshid=1uwwygb2ycdla\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263427716461682689": {
+        "datetime": 1590059615000,
+        "likes": "10",
+        "retweets": "7",
+        "tweet": "6 in 10 people in Singapore have received fake COVID-19 news, likely on social media: Survey  https://cna.asia/3e740Jz\u00a0 pic.twitter.com/Pd8Jn14tbv",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263423724809641985": {
+        "datetime": 1590058754000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Agreed especially when my Singapore trip got  cancelled due to covid watching this dreaming of one day being in a hawker stall",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263421326447894528": {
+        "datetime": 1590058631000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Yes correct ! Singapore recovery rate is very good even they have high cases they manage to recovered almost 38% comparing indonesia just 24%.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263423301478543361": {
+        "datetime": 1590058562000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "#singapore enters a new normal until a vaccine for Covid-19 is available. What is open, what is not after June 2 in Singapore. #circuitbreaker pic.twitter.com/sawSpgSoEf",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263423168552808449": {
+        "datetime": 1590058531000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19 Circuit Breaker to be lifted, here is what you can do from  June 2nd..\n\nCOVID-19 update from Singapore  as of 21st May 2020, S..reyus Palliyani Reports\n\n#coronavirus #novelcorona #IndiaUpdate #CoronavirusLiveUpdate #MoHupdate #COVID19 #SGunited #washyourhands #StayH\u2026 pic.twitter.com/JzZwohbnGy",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263422203564965888": {
+        "datetime": 1590058301000,
+        "likes": "6",
+        "retweets": "1",
+        "tweet": "Singapore #Covid19 Stats,\n\nTotal cases : 29,812\n\nActive        : 18,583  ( 62.33% )\nRecovered : 11,207  ( 37.59% )\nDeaths       :       22   (  0.07% )\n\nTotal Tests done :  294,414\nTests Per 1 Million : 50,369\n\nPositive Rate %      :  10.12%\n\n#Singapore\n#covid19singapore",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263422176415318017": {
+        "datetime": 1590058294000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Hong Kong Singapore n Germany amongst the 1st places to use contact tracing app #Covid_19",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263421623996239873": {
+        "datetime": 1590058163000,
+        "likes": "5",
+        "retweets": "1",
+        "tweet": "A man has been sentenced to death via a Zoom video call in Singapore, as the country remains on lockdown following a spike in Covid-19 cases.\nPunithan Genasan, 37, received the sentence on Friday for his role in a drug deal that took place in 2011.  #World  https://bit.ly/3gbOWwb\u00a0 pic.twitter.com/xJjq8COvnH",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263421164728266753": {
+        "datetime": 1590058053000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "My interview with OMFIF of Singapore, about Covid-19\u2019s impact on Global value chain, Factory Asia, labour intensive industries, digital transformation for LDCs, and US-China trade war. #Covid-19 #GVC #Digital https://www.omfif.org/podcast/global-value-chains-innovation-and-international-trade/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263420815640539136": {
+        "datetime": 1590057970000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Singapore wet market goes digital during COVID-19              https://ift.tt/2XihmMk\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263420642998673415": {
+        "datetime": 1590057930000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Mufti will address the community on SalamSG TV on how the community can fulfil its religious duties during Hari Raya amidst the COVID-19 situation. The session will be joined by former Mufti Dr Fatris Bakaram and President of Singapore, Mdm Halimah Yacob, as a special guest.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263418683990446080": {
+        "datetime": 1590057462000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore\u2019s Covid-19 case fatality rate is remarkably low. Why?  https://www.vox.com/2020/5/20/21265194/coronavirus-deaths-us-singapore-case-fatality-rates?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter\u00a0\u2026 via @voxdotcom",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263418078508904448": {
+        "datetime": 1590057317000,
+        "likes": "4",
+        "retweets": "0",
+        "tweet": "COVID-19: 448 more cases in Singapore, tally now 29,812 \n\n#COVID19 @sporeMOH\n https://www.bernama.com/en/general/news.php?id=1843968#.XsZZOglglCw.twitter\u00a0\u2026 pic.twitter.com/SEHAJhpPLO",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263417871855730688": {
+        "datetime": 1590057268000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Man apologises for false corruption claims against Josephine Teo, husband over Covid-19 care\u00a0facilities  https://localnewsingapore.com/man-apologises-for-false-corruption-claims-against-josephine-teo-husband-over-covid-19-care-facilities/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1262723092050255873": {
+        "datetime": 1590057206000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "The Singapore death rate is beginning to look very suspicious. Are deaths been recorded as Covid if the person was suffering from something else?",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263417024476139520": {
+        "datetime": 1590057066000,
+        "likes": "1",
+        "retweets": "2",
+        "tweet": "Selangor Journal | Covid-19: 448 more cases in Singapore, tally now 29,812  https://selangorjournal.my/2020/05/covid-19-448-more-cases-in-singapore-tally-now-29812/?utm_source=dlvr.it&utm_medium=twitter\u00a0\u2026 pic.twitter.com/POMODpJwIt",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263396703635267584": {
+        "datetime": 1590057025000,
+        "likes": "8",
+        "retweets": "1",
+        "tweet": "\ud83d\udc4f \ud83d\udc4f \ud83d\udc4f Thank you, Premier for keeping WA safe.   Sad, many West Australians don\u2019t know how disastrous it is if another wave of Coronavirus infections spread in WA.  Look at the situation in Singapore on how contagious COVID-19 is & how hard it is to get on top of the crisis.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263414615314034690": {
+        "datetime": 1590056492000,
+        "likes": "6",
+        "retweets": "1",
+        "tweet": "[1/8] As our healthcare workers brave the front lines to battle COVID-19, the nation has come together in various ways to show our appreciation and support for them.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263413982263721985": {
+        "datetime": 1590056341000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore\u2019s Covid-19 case fatality rate is remarkably low. Why?  https://www.vox.com/2020/5/20/21265194/coronavirus-deaths-us-singapore-case-fatality-rates?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter\u00a0\u2026 via @voxdotcom",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263413612397248514": {
+        "datetime": 1590056252000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Govt channels food supplies to Covid-19 frontliners at Malaysian High Commission in Singapore  http://dlvr.it/RX4XlY\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263412116402257926": {
+        "datetime": 1590055896000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "'448 new Covid-19 cases in #Singapore, tally stands at 29,812'\n#COVID19 #coronavirus https://www.todayonline.com/singapore/new-covid-19-cases-may-21\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263410678137667584": {
+        "datetime": 1590055553000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "SG nears 30K in COVID-19 cases  http://www.msn.com/en-sg/news/singapore/singapore-is-nearing-30-000-in-covid-19-cases-and-the-number-of-singaporeans-prs-just-jumped-to-13/ar-BB14peWt?ocid=ob-tw-ensg-489\u00a0\u2026 pic.twitter.com/ghgelgOlDJ",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263409358035181568": {
+        "datetime": 1590055238000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Singapore outlines 3 phases for safe reopening after circuit breaker | Full presser(Source: CNA) click here -->  http://tinyurl.com/ychjgl56\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263409310840864768": {
+        "datetime": 1590055227000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "This year, Singapore\u2019s 55th NDP celebrations will be scaled down in line with COVID-19 precautions. Parts of the NDP2020 will be brought to the heartlands & evening shows will be live stream.                                                  Read more here:  http://ow.ly/7J0R30qI0Wd\u00a0 pic.twitter.com/wwyKh11RCe",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263409270541950976": {
+        "datetime": 1590055217000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "This afternoon, our Director of Operations, Yvonne Yap joined a panel of experts from JustLogin and EngageRocket to discuss the impacts of the COVID-19 on employee engagement. Hope you enjoyed the webinar!\n\n#COVID19 #futureofworksg #leadership #StrongerTogether #SGUnited pic.twitter.com/EXZFFtlei8",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263408096971419651": {
+        "datetime": 1590054937000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "21 May 2020\nprojection of Covid-19(SG)\n\nusing confirmed cases up to yesterday\n\u25aa\ufe0fhorizontal axis is the sequential day number starting with day 1 on 1 Jan\n\u25aa\ufe0fsolid line is forecast\n\u25aa\ufe0f\u25cb are cases\n\u25aa\ufe0f\u2b55\ufe0f are cases used to predict\n\nNot always hit the mark. FYI.\n#coronavirus #Singapore  pic.twitter.com/6cmjUx7ujp",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263406866664570880": {
+        "datetime": 1590054644000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "448 new #Covid-19 cases in #Singapore; 13 are local cases, including 7 nursing home residents and pre-school staff\n https://www.straitstimes.com/singapore/448-new-covid-19-cases-in-singapore-bringing-total-to-29812\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263406241717469184": {
+        "datetime": 1590054495000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "There may be more local community transmission than you'll ever know\n#Singapore #CircuitBreaker #DORSCONOrange #SocialDistancing #StayHome #StayAtHome #CoronavirusPandemic #COVID19 #COVID2019 #Covid_19 #CoronavirusOutbreak #Coronavirus https://twitter.com/YahooSG/status/1263401989037125633\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263405547283378176": {
+        "datetime": 1590054330000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "There are 448 new Covid-19 cases preliminarily confirmed in Singapore as of Thursday noon (May 21), as cases in Singapore reached 29,812.\n\n https://www.straitstimes.com/singapore/448-new-covid-19-cases-in-singapore-bringing-total-to-29812\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263404886135148546": {
+        "datetime": 1590054172000,
+        "likes": "4",
+        "retweets": "2",
+        "tweet": "#ICYMI: Josephine Teo takes legal action after 'baseless' corruption claims over COVID-19 community care facilities\n https://sg.news.yahoo.com/government-debunks-profiteering-allegations-in-building-of-community-care-facility-by-surbana-jurong-125223208.html\u00a0\u2026 pic.twitter.com/jGjFQ1WpAs",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263404812093317120": {
+        "datetime": 1590054154000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Scientists in Singapore are developing a coronavirus vaccine, and hope that early clinical trials could begin as early as next month, according to a professor at Duke-NUS School of Medicine.Researchers  https://covid19read.com/2020/05/21/early-trials-of-a-coronavirus-vaccine-developed-in-singapore-may-begin-next-month-says-professor/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263402679872573440": {
+        "datetime": 1590054136000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Really???? Omg !\ud83d\ude2dshipping fee was never this expensive from korea to singapore since we are in asia but ever since the covid it just shoot up and im \ud83e\udd2f\ud83d\ude35 BROKE \ud83d\ude2d\u2764",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263404391106859008": {
+        "datetime": 1590054054000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore's Covid-19 case fatality rate is remarkably low. Why? -  https://goo.gl/alerts/kpsnu\u00a0 #GoogleAlerts",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1263404160512188416": {
+        "datetime": 1590053999000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "BAT COVID-19 Care Pack! Nice gesture to warm the hearts of employees during these trying times! @ Woodlands, Singapore  https://www.instagram.com/p/CAcfjUDHZBwg4TavWjsW3VK5usXRLiF2nd_9Zw0/?igshid=1l01saox7uo48\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263402182251933698": {
+        "datetime": 1590053527000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "\u201cHow Asia Confronts COVID-19 through Technology - LeidenAsiaCentre\u201d  https://htn.to/3a7dcDEGcs\u00a0 #health #Asia #Japan #China #Korea #Taiwan #Singapore",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263401989037125633": {
+        "datetime": 1590053481000,
+        "likes": "2",
+        "retweets": "4",
+        "tweet": "3 preschool staff test positive for COVID-19 during ongoing swab tests: ECDA\n https://sg.news.yahoo.com/3-preschool-staff-tests-positive-for-covid-19-during-ongoing-swab-tests-ecda-090957348.html\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263401446789091328": {
+        "datetime": 1590053352000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "222\n\nSingapore reports 448 new COVID-19 cases, including 13 Singaporeans or PRs  https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-singaporeans-prs-13-pre-school-12755016#.XsZJy8tFzkA.twitter\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263287165397749761": {
+        "datetime": 1590026105000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@Naveen_Odisha Dear Sir, from last 3 months been in Singapore . Is there any special flight arrangements  to Odisha in association with the central govt of India . I have registered already in our state Covid portal . Please do guide .",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1262222909252067328": {
+        "datetime": 1589772536000,
+        "likes": "4",
+        "retweets": "0",
+        "tweet": "Fwiw I think this is *also* the attraction to places like Portland, Austin, Boulder, etc. Those places were already on the upswing before Covid. \n\nI just can't see everyone going all homestead - though I've certainly thought about it.\n\n(Send Tweet from apt in central Singapore)",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1260884444422045697": {
+        "datetime": 1589453252000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "This is Spot, the robot deployed in Bishan-Ang Mo Kio Park in central Singapore. \n\nSpot's job is to maintain social distancing due to the #CoronaVirus pandemic.\n\nSpot started work last week.\n\nCould his job not be done by a human?\n\n(#COVID19 #Covid_19) https://www.youtube.com/watch?v=viuR7N6E2LA\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1259244288526946304": {
+        "datetime": 1589062208000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "This (below) is a video made in Bishan-Ang Mo Kio Park in central Singapore.\n\nThe robot - which has a camera on it - was there to warn about social distancing. \n\n#News #Corona #CoronaVirus #Covid_19 #Robot #Robots) https://twitter.com/ggreenwald/status/1258797162684653568\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1258320647735910400": {
+        "datetime": 1588841995000,
+        "likes": "19",
+        "retweets": "0",
+        "tweet": "Amazing pix from central Australia. Planes parked up during COVID. The space, low humidity, proximity to Singapore-relatively speaking and costs (?) make it an attractive option  pic.twitter.com/BdpP91qyUF",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1258210126806126593": {
+        "datetime": 1588815645000,
+        "likes": "0",
+        "retweets": "2",
+        "tweet": "What went wrong in #Singapore? New clusters of infection are inevitable as lockdowns ease and people start to mingle, experts say. #Covid_19 #coronavirus #lockdown #Asia https://www.wsj.com/articles/singapore-had-a-coveted-coronavirus-plan-what-went-wrong-11587464319?reflink=share_mobilewebshare\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1257725889032396803": {
+        "datetime": 1588700194000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@IndependentSage What is your take on Covid seasonality/climate? Worst affected areas: Wuhan (Jan-winter), Spain and Northern Italy (March), New York and London. Whilst Southern States, Africa, India, Singapore, Central/South America etc showing little capability for spreading",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1257725561872531458": {
+        "datetime": 1588700116000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@profhelenward What is your take on Covid seasonality and climate? Worst affected areas: Wuhan (Jan winter), Spain and Northern Italy (March), New York and London. Whilst Southern States, Africa, India, Singapore, Central/South America etc showing little capability for spreading",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1257725240647356416": {
+        "datetime": 1588700039000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@JeremyFarrar What is your take on Covid seasonality and climate? Worst affected areas: Wuhan (Jan winter), Spain and Northern Italy (March), New York and London. Whilst Southern States, Africa, India, Singapore, Central/South America etc showing little capability for spreading.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1257724720272867329": {
+        "datetime": 1588699915000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@devisridhar What is your take on Covid seasonality and climate? Worst affected areas: Wuhan (Jan winter), Spain and Northern Italy (March), New York and London. Africa, India, Singapore, Central/South America etc showing very little capability for spreading.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1257638453329588229": {
+        "datetime": 1588679347000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "A great sustainability initiative central to its business strategy. Would love to see this expanded to more needy families. #UOB #Brandsforgood #Sustainability #Covid-19 #Singapore  https://str.sg/JQsW\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1256143240258097152": {
+        "datetime": 1588322861000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Latest: Singapore will enter recession in 2020 due to blow from COVID-19 pandemic: Central bank  http://watsupasia.com/news/singapore-will-enter-recession-in-2020-due-to-blow-from-covid-19-pandemic-central-bank/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1256118641873076230": {
+        "datetime": 1588316996000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "The past 2 months had been challenging in many ways, starting with the onset of Covid-19 in Singapore. We went ahead to make the trip to Central America to visit our producers during harvest only to encounter much\u2026  https://www.instagram.com/p/B_oue2TJByO/?igshid=11loq510jeoxm\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1255149569316229120": {
+        "datetime": 1588085951000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Watch \"Singapore will enter recession in 2020 due to blow from COVID-19 pandemic: Central bank\" on YouTube  https://youtu.be/54INb3nvLNU\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1255029116560003072": {
+        "datetime": 1588057233000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Covid-19 Pandemic Clouds \ud83c\uddf8\ud83c\uddec Singapore's GDP Outlook: MAS: Singapore's recovery prospects were dampened by the coronavirus, or COVID-19, pandemic as it has undermined spending as well as production, the central bank said Tuesday. GDP growth forecast\u2026  https://www.rttnews.com/story.aspx?Id=3089478\u00a0\u2026 RTT",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1254993069256126464": {
+        "datetime": 1588048639000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#trade Singapore faces deeper-than-forecast recession as virus clouds global outlook: central bank\n\nA recession in Singapore's trade-reliant economy could be deeper than forecast as the protracted nature of the COVID-19 pandemic is likely to hamper a decisive rebound in glob\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1254986483909324802": {
+        "datetime": 1588047068000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Singapore will enter into a recession this year because of the COVID-19 pandemic, resulting in job losses and lower wages, with \u201csignificant uncertainty\u201d over how long and intense the downturn will be, the central bank warned on Tuesday (Apr 28).\n\n https://www.channelnewsasia.com/news/singapore/covid-19-economy-singapore-will-enter-recession-2020-mas-review-12683096?cid=TWTcna\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1253449342758912000": {
+        "datetime": 1587905147000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Australia, NZ, Singapore, Central America, South America, etc...It was summertime in the Southern Hemisphere when COVID-19 successfully spread throughout the globe. Including Southern Hemisphere where temps were consistently above 70\u00b0 in most locations within Southern Hemisphere.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1253520413621010432": {
+        "datetime": 1587697530000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "Pune's Covid-19 battle raging primarily in pockets of central wards. Greater success could be achieved if public awareness is created about these pockets. Residents will feel empowered to join the battle. Singapore did something similar.  https://twitter.com/DeoSahil/status/1253502410716139520\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252922069484015616": {
+        "datetime": 1587554874000,
+        "likes": "4",
+        "retweets": "0",
+        "tweet": "#wecare: #ams handed over appreciation bags and a donation to Singapore Central Hospital. It's a sign of appreciation for the dedicated hospital staff who are working tirelessly in a fight against COVID-19. Together, we help to #flattenthecurve. https://twitter.com/8worldnews/status/1245608370058309638\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252614517084782593": {
+        "datetime": 1587481547000,
+        "likes": "2",
+        "retweets": "1",
+        "tweet": "1 in 6 people from Italy have died from covid. Spain 1 in 9. Russia 1 in 115. Israel 1 in 77. Singapore 1 in 830..BlackRick was given 27 trillion by the Central Banks to \"bailout\" businesses. 27 trillion to buy bankrupt businesses. The Globalist Bankers just bought America..",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252411243215745026": {
+        "datetime": 1587474853000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "This is the time all stakeholder should get together and carefully plan to manage this country's affairs as for post covid 19 era. Singapore has this in place way before any crisis. if the local government management structure in place, central govt job should be easier",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252549752887140352": {
+        "datetime": 1587466106000,
+        "likes": "3",
+        "retweets": "3",
+        "tweet": "latest: Global coronavirus death toll tops 1,70,000, reports AFP\n-Singapore extends lockdown to June 1: Regional Media\n-Central team blocked by Bengal govt from entering Covid risk zones",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1251065172522909697": {
+        "datetime": 1587112155000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "UPDATE to shipping restriction due to COVID-19\n\nCENTRAL and SOUTH AMERICA\nJAPAN\nNEW ZEALAND\nAUSTRALIA\nAUSTRIA (Innsbruck, Voralberg, Salzburg)\nITALY (some postcodes)\nSINGAPORE (DHL only)\nUS/CANADA - surcharge for parcel post \nby DHL only\n\nFull update here:  https://horseplay-toys.com/blogs/news/impact-of-covid-19-on-business-operations\u00a0\u2026 https://twitter.com/HorseplayToys/status/1247805790318034945\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1250503175125295104": {
+        "datetime": 1586978164000,
+        "likes": "4",
+        "retweets": "2",
+        "tweet": "Fmr Aust PM Kevin Rudd says a multilateral seven (M7) including Germany, France, the EU, Japan, Canada, Britain and Singapore should \"reform, fund, and politically defend the central institutions of global governance for the post-Covid era\" #Covid19 https://www.economist.com/open-future/2020/04/15/by-invitation-kevin-rudd-on-america-china-and-saving-the-who\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1249699063035056131": {
+        "datetime": 1586790940000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Think about how much more efficient, say, voting would be if everyone had a government-issued ID & a central government agency kept track of your address. No registering to vote; just walk in on Election Day and vote.\n\nOr COVID contact-tracing if the US had a Singapore style app.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1249541505301139458": {
+        "datetime": 1586748884000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "I agree with you. but your tweet came in todays  situation so i have highlight the facts .\n 1 . Central bank of china already had 0.80% share of HDFC before covid 19 situation, it risen 0.21% during this time \n2 . Not only Chinese but European and singapore govt. also own shares.  https://twitter.com/RahulGandhi/status/1249334224844288003\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1249328796991229953": {
+        "datetime": 1586698171000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@KittySn52889207 \n4 McDonald\u2019s Singapore outlets closed: Lido, Forum Galleria, Parklane and Geylang East Central. 5 employees were tested positive for Covid-19.\n https://weehingthong.org/2020/04/12/singapore-4-mcdonalds-outlets-closed-lido-forum-galleria-parklane-and-geylang-east-central-5-employees-were-tested-positive-for-covid-19/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1249270908507705346": {
+        "datetime": 1586684369000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@PMOIndia  Why India doesn't have a WhatsApp channel like Singapore govt. to disseminate correct information in a timely manner? It can be either at central level or at state level or both. It is critical for India in fight against Covid.\n\n#COVID19 @timesofindia @htTweets",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1248187149964292096": {
+        "datetime": 1586425981000,
+        "likes": "2",
+        "retweets": "2",
+        "tweet": "Singapore\u2019s central bank has announced S125$ million package for financial services and fintech sector to strengthen capabilities amidst the current economic downturns caused due to Covid-19 pandemic\n\n https://bfsi.economictimes.indiatimes.com/news/policy/mas-launches-s-125-million-package-for-fintechs-financial-institutions/75062744\u00a0\u2026\n#Singapore #CentralBanks #economicpackage #finance",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1245982228691038212": {
+        "datetime": 1585900287000,
+        "likes": "14",
+        "retweets": "9",
+        "tweet": "\"Residents were \u201clax\u201d when it came to social distancing, noting that only 40 per cent of employees in the central business district were working from home.\" Singapore thought they almost had Covid-19 under control, then cases spiralled  https://www.scmp.com/week-asia/health-environment/article/3078199/coronavirus-singapore-100-1000-infections-one-month\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1245792074378739716": {
+        "datetime": 1585854950000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Latest: Singapore\u2019s central bank announces measures for individuals, firms affected by COVID-19 pandemic  http://watsupasia.com/news/singapores-central-bank-announces-measures-for-individuals-firms-affected-by-covid-19-pandemic/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1245413900469837827": {
+        "datetime": 1585765102000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Taiwan IS killing it\nHong Kong beat COVID-19 with a strong grassroots community effort\nSingapore beat COVID-19 with a strong authoritarian central plan\nTaiwan did better than both\n\nConfucianism has little to do with any of this..",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244743549989593088": {
+        "datetime": 1585604963000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19: Singapore's central monetary institution eases monetary policy\n https://www.barkooss.com/covid-19-singapores-central-monetary-institution-eases-monetary-policy/?feed_id=4662&_unique_id=5e8269631205c\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244661470429921282": {
+        "datetime": 1585585393000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Singapore eases monetary policy amid COVID-19 recession fears\n\nThe de facto central bank of Singapore has eased monetary policy as the city state battles the #economic impact of COVID-19.\n\nFull story:  https://bit.ly/2Jmztdk\u00a0\n#PlasticsNews #News #Plastic #Covid19",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244525226206973952": {
+        "datetime": 1585552910000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Thanks to #Covid_19 whacking the economy so bad that SG central bank gotta ease policies, I learnt that the acronymn for  \"Singapore Dollar Nominal Exchange Rate\" is S$NEER. \ud83d\ude02",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244458212914384897": {
+        "datetime": 1585536933000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Central Bank Eases Currency Policy Amid Covid-19 Pandemic -- Update  http://dlvr.it/RSpJ46\u00a0 #Stock_market_news  http://bit.ly/2StKgrZ\u00a0 pic.twitter.com/e0HoSPtBxe",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244457831916593153": {
+        "datetime": 1585536842000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Central Bank Eases Currency Policy Amid Covid-19 Pandemic -- Update #economy #MarketScreener  http://marketscreener.com/news/Singapore-Central-Bank-Eases-Currency-Policy-Amid-Covid-19-Pandemic-Update--30272300/\u00a0\u2026 pic.twitter.com/4wsj1vVycD",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244425618189701122": {
+        "datetime": 1585529162000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Central Bank Eases Currency Policy Amid Covid-19 Pandemic #economy #MarketScreener  http://marketscreener.com/news/Singapore-Central-Bank-Eases-Currency-Policy-Amid-Covid-19-Pandemic--30272217/\u00a0\u2026 pic.twitter.com/RbMCZdO5wi",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1244267352117706754": {
+        "datetime": 1585491428000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@narendramodi 1. APP is required to track COVID-19,patients n their contacts like Singapore,India is admist of a battle whichnis jst unfolding,2. communicate often with citizens.3 Smart n responsive Govt, be transparent, communicate the truth.Prepare for local n central fight.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1242333437262004230": {
+        "datetime": 1585035198000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Supriyaji. Please give guidelines to central and state Govts. To do  as per  this report of Singapore pattern  for fighting with Covid 19.  pic.twitter.com/woGmVXmLRJ",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1242143219598553088": {
+        "datetime": 1584984996000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Singapore Government announces SGD 4 Billion for COVID-19 to support workers and businesses affected by the outbreak. Kudos to them. I am just curious to know is there any financial measurements like special budget allocated for COVID-19 either from TN or Central Govt?",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1241575503468716033": {
+        "datetime": 1584849642000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore seem to have a great handle on the communication side of this Covid challenge. Clearly tracked and traced cases, all info in one central, easy to navigate place.  https://www.gov.sg/article/covid-19-cases-in-singapore\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1240792928588455936": {
+        "datetime": 1584717929000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Every country that is coping with COVID-19 better than the US is doing it with a central government leading the effort. China, S.Korea, Singapore.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1240858592195928064": {
+        "datetime": 1584678717000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Fascinating read on how Taiwan, Singapore and HK have successfully kept COVID-19 numbers very low despite their close proximity to China via rapid and aggressive mobilization, effective central govt. communication, and widespread testing. One can only hope the U.S. can learn...  https://twitter.com/TIMEWorld/status/1238388883345326080\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1240192447986237440": {
+        "datetime": 1584519895000,
+        "likes": "77",
+        "retweets": "20",
+        "tweet": "\u201cThere\u2019s one striking message from how Hong Kong, Singapore, and Japan were able to contain COVID-19. There was excellent communication and coordination between different government departments and between the central and regional governments.\u201d  https://time.com/5804899/u-s-coronavirus-needs-follow-s-korea/\u00a0\u2026 https://twitter.com/zburki/status/1240191426404777984\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1240174756323659776": {
+        "datetime": 1584515677000,
+        "likes": "46",
+        "retweets": "35",
+        "tweet": "Due to #COVID-19 outbreak, Langer (Community Kitchen or Food Catering) shall be suspended till 31st March 2020 in all #Gurudwaras in #Singapore ( Sikh Temple). A good decision is taken by Central Sikh Gurdwara Board to protect our #SikhCommunity and the general public.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1240005292240146432": {
+        "datetime": 1584475274000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Aggressive testing in China to get the outbreak under control brought new infections down dramatically. It\u2019s been central to the strategy that Singapore & South Korea have used. Yet, 2 months since 1st case of COVID-19 was confirmed in U.S., tests for coronavirus are hard to find",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1239797593120690177": {
+        "datetime": 1584425755000,
+        "likes": "56",
+        "retweets": "50",
+        "tweet": " https://bit.ly/2x0pzev\u00a0\n\nThe Central Sikh Gurudwara Board in #Singapore says that elderly #Sikhs are advised to #StayAway from #Gurudwaras and crowded places until the #COVID-19 outbreak is controlled. Future live streaming of programs will be arranged but food catering is",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1239305331131461635": {
+        "datetime": 1584308390000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Open letter from 11 countries Australia Brazil Canada Germany India Italy Japan, New Zealand, Singapore S Korea USA ask publishers to make data freely openly available thru PubMed Central, free archive or thru other sources such as WHO\u2019s Covid database.  https://www.wired.com/story/global-officials-call-free-access-covid-19-research/#openaccess\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1238869973122105345": {
+        "datetime": 1584227390000,
+        "likes": "3",
+        "retweets": "0",
+        "tweet": "Yes I looked into that. Several Asian countries, namely Taiwan, Singapore and HK learned big lessons from the SARS outbreak and developed several strategies which the employed rapidly upon news of COVID. E.g. Taiwan had established a central command centre for epidemics-53 cases",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1238689220912246785": {
+        "datetime": 1584166786000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "What is your point ?\nFrom early Dec many central & state gov agencies are taking various steps to combat spread of virus. This is even before WHO declared COVID-19 global pandemic. Not claiming we are better than singapore but certainly way better than some western countries.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1237737474064920577": {
+        "datetime": 1583934584000,
+        "likes": "253",
+        "retweets": "217",
+        "tweet": "Singapore does a poster for COVID-19 awareness in all its languages including Tamil.\n\nMeanwhile in India, only those who can read English or Hindi get to read public health information put out by the central government.  pic.twitter.com/pLzxtQqmJm",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1237735624515387392": {
+        "datetime": 1583934143000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "No surprise that Rwanda is tackling COVID-19 with terrifying effectiveness.  The Singapore of Central Africa indeed.  https://twitter.com/Mogaza/status/1237478365638074374\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1236541186602463233": {
+        "datetime": 1583670449000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Sir, Kuwait stops flights from India, kindly discuss with central and stop flights from most Covid-19 affected countries mainly from Singapore & Italy. Also Trichy & Madurai Airport should be scrutinized.  pic.twitter.com/AdN7xg6NTM",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1235968353715523585": {
+        "datetime": 1583512793000,
+        "likes": "15",
+        "retweets": "19",
+        "tweet": "Facebook is to close it's London office after an employee based in Singapore visited between 24-26 Feb. They have since been diagnosed with Covid-19.\n\nThe central London offices will be closed for deep cleaning and employees will be working from home.\n\n https://www.itv.com/news/london/2020-03-06/facebook-to-close-london-office-after-employee-based-in-singapore-diagnosed-with-covid-19-visited-on-24-26-feb/\u00a0\u2026 pic.twitter.com/Ju78bbGRqc",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1230572035870314496": {
+        "datetime": 1582226210000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Covid-19, my confusion increasing. PRC says it's subsiding go back to work, but is cancelling Party events. Cases increasing in Japan and Singapore, significant events cancelled. Cases in strange places like Iran or central Taiwan. State video still shows useless street-spraying.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1229439870860435456": {
+        "datetime": 1581956281000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "@Varneyco Nice Obama tweet.  It demonstrates that Central Banking and govt stimulus might only produce a SLOW and crummy recovery in the face of a major crisis.  Look at CNN's map of COVID-19 cases in China.  Singapore.  Japan.  Hong Kong.  Japan -6% GDP Q1.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1223076101582397441": {
+        "datetime": 1581896892000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Global Central Banks vs. COVID-19!  Not shocked!   China, Hong Kong and Singapore are pledging extra fiscal stimulus to counter the economic hit from the coronavirus.   https://www.bloomberg.com/news/articles/2020-02-16/china-asia-bulk-up-economy-defenses-against-virus-ahead-of-g-20?cmpid=BBD021720_MKT&utm_medium=email&utm_source=newsletter&utm_term=200217&utm_campaign=marketsasia\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1227489846970552320": {
+        "datetime": 1581491441000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "\"I regret to inform you that there is one confirmed case of coronavirus at DBS Asia Central on Level 43 today,\" Singapore country head, Tse Koon Shee said in the memo.\n#coronavirussingapore #COVID_19",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1243494919634931712": {
+        "datetime": 1585307266000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Prayer meeting in northwest Calgary linked to 34 COVID-19 cases | CalgaryHerald | \u201cA pastor from Singapore was the featured guest at the March 6 prayer meeting. That visitor would trigger what is now known as a \u201csuper spreader\u201d COVID-19 event\u201d-Pray for Jay  https://calgaryherald.com/news/local-news/calgary-man-fights-for-his-life-as-family-quarantined-with-covid-19\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263317132877668357": {
+        "datetime": 1590033250000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19 in Singapore\n http://www.tremeritus.net/2020/05/21/covid-19-in-singapore/\u00a0\u2026\nCOVID-19 has devastated the whole world with almost 4.9 million\u00a0infected cases and 320,000 deaths since it started at Wuhan China in\u00a0December 2019.\n\nSingapore is not spared.\n\nWe have the highest infection rate in South East ...  pic.twitter.com/3W2nKs327j",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1260945298848837632": {
+        "datetime": 1589467761000,
+        "likes": "3",
+        "retweets": "1",
+        "tweet": "ABC News \u2014 While cases of COVID-19 shoot up in wealthy Singapore and the disease continues on a worrying trend elsewhere in South-East Asia, Vietnam is an unlikely outlier\n https://www.abc.net.au/news/2020-05-13/coronavirus-vietnam-no-deaths-success-in-south-east-asia/12237314\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1260377998248808448": {
+        "datetime": 1589332506000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "The COVID-19 crisis can lead to issues for intellectual property owners. On May 27th we are hosting a webinar on The impact of COVID-19 on Singapore IP owners with South-East Asia IPR SME Helpdesk \n\nSign up now, the event is free of charge!\n https://eurocham.org.sg/event/webinar-the-impact-of-covid-19-on-singapore-ip-owners/\u00a0\u2026 pic.twitter.com/kGD6KU85kL",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1259089036200812544": {
+        "datetime": 1589025938000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Robocop is here. These droids will be fitted with tasers first. Then China and Singapore will fit them out with guns. \n\nThe slow death of freedom in South East Asia is being quickened during this 'New Normal' tyranny. COVID-19 is the blank cheque excuse.\n\nThis is 'Year Zero' 2.0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1258710663133716481": {
+        "datetime": 1588973644000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Poor baby..hope he recovers soon... since Singapore\u2019s Covid is the worst hot spot in South East Asia, really hope it\u2019s gonna be alright with you and the family, stay safe always!",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1258689976327233537": {
+        "datetime": 1588930050000,
+        "likes": "16",
+        "retweets": "1",
+        "tweet": "Singapore records highest number of Covid-19 cases in South-east Asia with 21,707 patients\n\n https://bit.ly/2xOuUGG\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1256594565206732800": {
+        "datetime": 1588430465000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Singapore, Indonesia, Philippines. The three countries with highest number of Covid cases in South East Asia. Guess which country is smack in the middle? Malaysia  pic.twitter.com/EiY3dWacfE",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1256302235660636160": {
+        "datetime": 1588360768000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#COVID Worldwide Updates:\n\u25ab\ufe0fUK overtakes France for the most nunber of cases at the 4th place.\n\u25ab\ufe0fRussia recorded 7, 933 cases today --- the largest daily cases reported for the country\n\u25ab\ufe0fIndonesia is the 2nd South East Asia country to have 10,000 cases (after Singapore)",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1256169954145005569": {
+        "datetime": 1588329230000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "As we will not be able to have a mass gathering due to #COVID-19, we have decided to continue the #MayDay spirit virtually for PSI South East Asia. This video is from our affiliates in #Singapore and #Thailand\n#FB https://m.facebook.com/story.php?story_fbid=556821921882240&id=100026633100475\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1253704064388521986": {
+        "datetime": 1587741566000,
+        "likes": "9",
+        "retweets": "0",
+        "tweet": "WTF,  Singapore has plenty of sunlight but is the highest covid in south east Asia.  You are totally mis -inform",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1253430962148392962": {
+        "datetime": 1587676203000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia  http://newsbythehour.org/wars\u00a0 http://bit.ly/2Kweh58\u00a0",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252924763934203904": {
+        "datetime": 1587555516000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia. I hope Nigeria can learn from this...  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252898434845114371": {
+        "datetime": 1587549239000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252851700257288192": {
+        "datetime": 1587538096000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252705389327646721": {
+        "datetime": 1587503213000,
+        "likes": "4",
+        "retweets": "1",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252695151908196352": {
+        "datetime": 1587500772000,
+        "likes": "4",
+        "retweets": "1",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\n https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/?WT.mc_id=tmgliveapp_iosshare_AvMh0MjCb16y\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252683407303344128": {
+        "datetime": 1587497972000,
+        "likes": "4",
+        "retweets": "2",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252642497915994112": {
+        "datetime": 1587488219000,
+        "likes": "3",
+        "retweets": "2",
+        "tweet": "Never be complacent....\n\nHow Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0\n\n https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/?WT.mc_id=tmgliveapp_androidshare_AvMh0MjCb16y\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252641453399879681": {
+        "datetime": 1587487970000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore is one of the highest cases of Covid in South East Asia today after being praised for their great practices in controlling the virus few months ago. #Covid19PH",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252636040487219201": {
+        "datetime": 1587486679000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252630610763448321": {
+        "datetime": 1587485385000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252630576592551936": {
+        "datetime": 1587485376000,
+        "likes": "7",
+        "retweets": "3",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252620454390448128": {
+        "datetime": 1587482963000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0  https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252619300499849216": {
+        "datetime": 1587482688000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "How Singapore went from leading global Covid-19 efforts to having the most cases in South-East Asia\u00a0\u00a0 \ud83d\udc47\ud83d\udc40 \u2066@OdysseanProject\u2069 \u2066@BorisJohnson\u2069 \u2066@MattHancock\u2069 \u2066@CMO_England\u2069 \u2066@uksciencechief\u2069   https://www.telegraph.co.uk/news/2020/04/21/singapore-went-leading-global-covid-19-efforts-having-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252530057752399874": {
+        "datetime": 1587461411000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "Singapore now has the highest number of COVID positive cases in South East Asia. And where are they spreading- in crowded worker dormitories. For now, Singapore is aggressively testing and quarantining people and also offering free treatments to patients. \n https://www.reuters.com/article/us-health-coronavirus-singapore-migrants/the-s11-dormitory-inside-singapores-biggest-coronavirus-cluster-idUSKBN2230RK?il=0&utm_source=twitter&utm_medium=Social&__twitter_impression=true\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252507963182350336": {
+        "datetime": 1587456143000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Champion of South East Asia\n#Singapore #SocialDistancing #StayHome #StayAtHome #CoronavirusPandemic #COVID19 #COVID2019 #Covid_19 #CoronavirusOutbreak #Coronavirus pic.twitter.com/DcbpucpOKJ",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252426650194636801": {
+        "datetime": 1587436757000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore battles to control new surge in Covid-19 cases - more at  https://thethaiger.com/news/world/singapore-battles-to-control-new-surge-in-covid-19-cases\u00a0\u2026 #Thailand\nThe tiny island state, earlier seen as a vanguard for Covid-19 containment, has now seen a recent spike in cases pushing it to the top of the list in south east Asia's tally o...  pic.twitter.com/ZP7H5DAaiZ",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252333003797344258": {
+        "datetime": 1587414798000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Um no. Singapore has the most COVID cases in South East Asia. More like the Canadian model, which has one of the lowest deaths per million figures amongst major countries.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252311442558087168": {
+        "datetime": 1587409289000,
+        "likes": "4",
+        "retweets": "0",
+        "tweet": "Singapore was the world\u2019s Covid-19 response model. \nNow it\u2019s the South-East Asian epicentre \u2013 live updates  https://thespinoff.co.nz/society/21-04-2020/covid-19-live-updates-april-21-even-singapore-is-now-seeing-an-explosion-in-new-cases/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252144863824375808": {
+        "datetime": 1587369573000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Singapore has the most number of COVID-19 cases in South East Asia with 8,014 cases as of now.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252133065440129024": {
+        "datetime": 1587366760000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "#Singapore have be come this highest diagnosis of #Covid_19 in the south east Asia.  Remember the Gov of Singapore said Hongkonger is monkey  pic.twitter.com/uAQbbGKgMe",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252116216581287936": {
+        "datetime": 1587362743000,
+        "likes": "18",
+        "retweets": "11",
+        "tweet": "Singapore sets new daily record for coronavirus cases.\nNumber of infections spikes among 1m migrant workers living in cramped dormitories. Singapore with 6,588 coronavirus Cases has the most Covid-19 cases in South East Asia  https://www.ft.com/content/2f55acf0-ca7b-4d7c-8ccb-971c96342ca9\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252095280381489154": {
+        "datetime": 1587357752000,
+        "likes": "13",
+        "retweets": "4",
+        "tweet": "If you could end COVID 19 by sacrificing a small part of South East Asia, which country would you choose and why Singapore ?",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1252083173892124675": {
+        "datetime": 1587354865000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore now has most Covid-19 cases in the SOUTH-EAST Asia region :( \n\n#circuitbreakersg",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1252041820080533504": {
+        "datetime": 1587345006000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore is now Number 1 in COVID-19 cases in South East Asia.\n\nThe Yellows, Pa-wokes & Anti-Duterte left the group \ud83e\udd23  https://twitter.com/business/status/1251793402041192448\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1251726452325662721": {
+        "datetime": 1587269816000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "Philippines having the highest covid cases in South East Asia but Singapore about to catch up \ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1251698825774821376": {
+        "datetime": 1587263230000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "If Singapore sky rocket #COVID new cases for today, this country will be #1 in South East Asia.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1251461356693278720": {
+        "datetime": 1587206772000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "the news reporter said \"in south east asia, the country with the most serious situation of covid 19 is indonesia with 300+ cases\" BUT GUESS WHAAAATTTT SINGAPORE HAS 900+ CASES WHAT A JOKE",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1251088658498641921": {
+        "datetime": 1587117754000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Second wave of Coronavirus hits Singapore | South-East Asia | COVID-19  https://www.youtube.com/watch?v=JfZueOMFcnE\u00a0\u2026 #covid19ph",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1251057910932803590": {
+        "datetime": 1587110424000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Second wave of Coronavirus hits Singapore | South-East Asia | COVID-19  https://youtu.be/JfZueOMFcnE\u00a0 via @YouTube",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1250829273985888256": {
+        "datetime": 1587055912000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "#Supramax fluttering market due to pressurized rates by Covid-19 affects, specially Pac; Med and Cont lacking trade #rumored delivery Singapore for r/v redel South East Asia around $3k\u2019s",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1250757468348493824": {
+        "datetime": 1587038793000,
+        "likes": "17",
+        "retweets": "6",
+        "tweet": "Malaysia used to be no 1 in the no of COVID-19 cases in South east asia. Now Phillipines and Indonesia have surpassed us. Singapore at the moment has the highest no of test per 1 million performed. Let us pray for our neighbours! #FightCovid19 pic.twitter.com/splTiftoG9",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1250294038231580677": {
+        "datetime": 1586928302000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Property markets in south-east Asia struggle to recover after Covid-19: Homebuyers in Hong Kong, Singapore and China adjust to a new normal  http://dlvr.it/RTnzmS\u00a0",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1249953215824576514": {
+        "datetime": 1586847287000,
+        "likes": "3",
+        "retweets": "0",
+        "tweet": "Singapore's world class healthcare system could save the entire South-east Asia from Covid-19 outbreak disaster.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1249549537695240192": {
+        "datetime": 1586750799000,
+        "likes": "0",
+        "retweets": "2",
+        "tweet": "Singapore-listed Biolidics to distribute Covid-19 rapid test kits in US - [How Coronavirus Impact Economy, South East Asia Market News], Source: The Straits Times Market News -  https://www.nonsell.com/south-east-asia-market-news/singapore-listed-biolidics-to-distribute-covid-19-rapid-test-kits-in-us/\u00a0\u2026 pic.twitter.com/2WKcR8KuuN",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1247028710349258755": {
+        "datetime": 1586149787000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Taiwan, Singapore, Japan... Other south east asian countries except for Malaysia and Philippines are doing great battling Covid-19. Damn Philippines lets step it up! #HolyMonday #HolyWeek #WeHealAsOne",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1246025923356323840": {
+        "datetime": 1585910704000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "in year 2840, xiao ming taking exam '21st century History in South East Asia.'\n\nQue\nIn 21st century during the PAP era government. Did the Singapore government declare toto outlet as essential Service during the covid 19 pandemic?\n\n1)yes\n2)No",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1243891663162019841": {
+        "datetime": 1585432810000,
+        "likes": "2",
+        "retweets": "0",
+        "tweet": "The only country that you listed that mandates wearing masks is China. Masks are prevalent in many other parts of South East Asia and have been for decades.\nYou left Singapore off the list where COVID-19 is also under control and govt (like CDC and WHO) urges most not wear masks.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1241884767001313280": {
+        "datetime": 1584923376000,
+        "likes": "1",
+        "retweets": "0",
+        "tweet": "COVID-19 outbreak cuts South-East Asia\u2019s GDP growth forecast to 4.2% in 2020\n\nTourism- and export-dependent economies can expect the most impact. Thailand will be the worst hit. \n\nVietnam and Singapore will suffer from supply-side disruptions and travel bans",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1241565660003463168": {
+        "datetime": 1584848552000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Top 10 CASE COVID-19 in the WEST-SOUTH-EAST ASIA (21/3/2020):\n\n\ud83c\udde8\ud83c\uddf3China: 81,416\n\ud83c\uddf0\ud83c\uddf7South Korea: 8,799\n\ud83c\uddf2\ud83c\uddfeMalaysia: 1,030\n\ud83c\uddef\ud83c\uddf5Japan: 996\n\ud83c\udde6\ud83c\uddfaAustralia: 873\n\ud83c\uddf8\ud83c\uddecSingapore: 385\n\ud83c\uddee\ud83c\udde9Indonesia: 369\n\ud83c\uddf9\ud83c\uddedThailand: 322\n\ud83c\uddf5\ud83c\uddedPhilipine: 230\n\ud83c\uddee\ud83c\uddf3India: 195\n\n#COVID\u30fc19\n#CoronavirusPandemic\n#StaySafeStayHome",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1241560273242058752": {
+        "datetime": 1584846010000,
+        "likes": "0",
+        "retweets": "1",
+        "tweet": "Indonesia oh Indonesia \ud83d\ude2d\n\n\"South-east Asia's response to the coronavirus had varied wildly, from world's best practice in Singapore to possible disaster in Indonesia\"\n#Covid_19\n#ChineseVirus\n@msaid_didu @zarazettirazr\n@lisaamartatara4\n@fadlizon\n https://amp.smh.com.au/world/asia/it-s-a-powder-keg-south-east-asian-countries-grapple-with-virus-20200320-p54c6h.html?utm_medium=Social&utm_source=Twitter&__twitter_impression=true\u00a0\u2026 pic.twitter.com/xSCDigKV86",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1241402911621443585": {
+        "datetime": 1584816966000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Look at Korea's map, particularly w/ pop. density. S. Korea is SEOUL!!... & little rural areas south & east. Like Singapore w/ farmland. COVID hit them earlier, they've more gvmt. control. Many factors, some require a loss of some rights. Gad is being a political bigot.",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1240593844535615489": {
+        "datetime": 1584615596000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Future of semiconductor industry remains bright despite current slowdown in South East Asia under the COVID-19. Nexteck Singapore Pte Ltd., is confidence and always ready to give full support to all our customers under tough situations through  http://www.nexteck.com.sg\u00a0 pic.twitter.com/DwwScmjchb",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1239484905018380291": {
+        "datetime": 1584351204000,
+        "likes": "17",
+        "retweets": "10",
+        "tweet": "Malaysia is no1 in South East Asia!\nIn number of Covid-19 cases.\n\nWe overtook Singapore. Some leaders are responding slower than Internet Explorer.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1238143387598897154": {
+        "datetime": 1584078736000,
+        "likes": "6",
+        "retweets": "0",
+        "tweet": "Not to mention Singapore and south east easian countries with similar tropical climate as that of India have reported Covid-19 en masse.",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1236157867700260864": {
+        "datetime": 1583557977000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "I believe COVID-19 is spreading undetected in the Philippines. How the hell are Chinese-funded South East Asian countries report few-to-no confirmed cases while Singapore and Malaysia - quite indifferent to Chinese aid, is reporting double digits already?\n\n https://time.com/5792180/southeast-asia-undetected-coronavirus/\u00a0\u2026",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1235958822520467456": {
+        "datetime": 1583510520000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "COVID-19 may hurt Singapore most in South-east Asia  http://oxan.to/mar6\u00a0 pic.twitter.com/rPYha49O9H",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1232816045867458560": {
+        "datetime": 1582761224000,
+        "likes": "1",
+        "retweets": "1",
+        "tweet": "If we believe that #Covid_19 #SARS_CoV_2 data coming out of Singapore is more reliable among the South East Asia, then the rate of recovery is promising. Damage to the global economy may not be long lasting contrary to what is told in the financial media. #FUD $SPX $DJIA pic.twitter.com/B9xMXb0hh8",
+        "analyzed": 1,
+        "sentiment": "Negative"
+    },
+    "1247131702775947267": {
+        "datetime": 1586174343000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "The Asian Countries That Beat Covid-19 Have to Do It Again \u2013 Singapore, Hong Kong, South Korea, and Taiwan had flattened the curve. Then travelers from the US and Europe began reimporting ...  https://www.wired.com/story/the-asian-countries-that-beat-covid-19-have-to-do-it-again\u00a0\u2026 pic.twitter.com/e0QrfrfHr3",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1238061952993280000": {
+        "datetime": 1584011946000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Was Ready for Covid-19\u2014Other Countries, Take Note\u00a0 \u2013 After SARS and H1N1, Singapore built a robust system for tracking and containing epidemics. South Korea, Taiwan, and other...  https://www.wired.com/story/singapore-was-ready-for-covid-19-other-countries-take-note\u00a0\u2026 pic.twitter.com/81j7Cr0bgj",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    },
+    "1263631521388388354": {
+        "datetime": 1590108206000,
+        "likes": "0",
+        "retweets": "0",
+        "tweet": "Singapore Is Using a Robotic Dog to Enforce Proper Social Distancing During COVID-19  https://www.smithsonianmag.com/smart-news/singapore-using-robotic-dog-enforce-proper-social-distancing-during-covid-19-180974912/#.Xscf2X0xsAM.twitter\u00a0\u2026 #Robots #Singapore #Covid_19 #SocialDistancing",
+        "analyzed": 1,
+        "sentiment": "Positive"
+    }
+}
