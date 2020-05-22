@@ -36,20 +36,21 @@ def read_tweets(country):
     with open(r'./json/json_{}.txt'.format(country), 'r') as f:
         #lines = str(f.read())
         data  = json.load(f)
+
+    # Initializing empty lists
     lines = []
     code = []
+
+    # If tweet is not analyzed, store the tweet text and code
     for k,v in data.items():
         if not v['analyzed']:
             lines.append(v['tweet'])
             code.append(k)
         
-    #lines = [l.replace('\n', '') for l in lines.split('-----Line of Text------------')]
-
     return lines, data, code
 
 # Removing Noise from Data
 
-# Adding some more words to stop_list:
 def remove_noise(tweet_tokens, stop_words =()):
 
     cleaned_tokens = []
@@ -82,12 +83,17 @@ def remove_noise(tweet_tokens, stop_words =()):
            
     return cleaned_tokens
 
+# Generator function to yield dictionary with key=token, value= True
+def get_tweets_for_model(cleaned_tokens_list):
+    for tweet_tokens in cleaned_tokens_list:
+        yield dict([token, True] for token in tweet_tokens)
+
+
 #%% Main script
 
-# Reading tweets created using Twint.py
-country = str(input('Which country do you want to analze: '))
-# Data_tweets = unanalyzed tweet text, data = all tweet json format, code = codes for tweet
-data_tweets, data, code= read_tweets(country)
+# =============================================================================
+#%% Building Model
+# =============================================================================
 
 # Working with the sample tweets
 positive_tweets = twitter_samples.strings('positive_tweets.json')
@@ -99,21 +105,14 @@ negative_tweets = twitter_samples.strings('negative_tweets.json')
 
 positive_tweets_tokens = twitter_samples.tokenized('positive_tweets.json')
 negative_tweets_tokens = twitter_samples.tokenized('negative_tweets.json')
-data_tweets_tokens = [word_tokenize(x) for x in data_tweets]
-
 
 # =============================================================================
 # Normalizing tweets
 # =============================================================================
 
-# Adding more random words that need to be removed
-most_common = ['covid','covid-19','covid_19','coronavirus','{}'.format(country),'http','...','people','state']
-stop_words = stop_words + most_common
-
 
 positive_cleaned_tokens_list = []
 negative_cleaned_tokens_list = []
-data_cleaned_tokens_list = []
 
 for tokens in positive_tweets_tokens:
     positive_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
@@ -121,38 +120,12 @@ for tokens in positive_tweets_tokens:
 for tokens in negative_tweets_tokens:
     negative_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
 
-for tokens in data_tweets_tokens:
-    data_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
-
-# =============================================================================
-# Determining Word Density
-# =============================================================================
-
-# Writing a function to get all possible words in tweets
-
-# Using a generator function for memory purposes
-def get_all_words(cleaned_tokens_list):
-    
-    for tokens in cleaned_tokens_list:
-        for token in tokens:
-            yield token
-
-all_pos_words = get_all_words(data_cleaned_tokens_list)
-freq_dist_pos = FreqDist(all_pos_words)
-
 # =============================================================================
 # Machine Learning Model: Naive Bayes Classifier (positive, negative classes)
 # =============================================================================
 
-# Generator function to yield dictionary with key=token, value= True
-def get_tweets_for_model(cleaned_tokens_list):
-    for tweet_tokens in cleaned_tokens_list:
-        yield dict([token, True] for token in tweet_tokens)
-
 positive_tokens_for_model = get_tweets_for_model(positive_cleaned_tokens_list)
 negative_tokens_for_model = get_tweets_for_model(negative_cleaned_tokens_list)
-data_tokens_for_test = get_tweets_for_model(data_cleaned_tokens_list)
-
 
 # Splitting dataset for training and test 
 
@@ -167,18 +140,56 @@ dataset = positive_dataset + negative_dataset
 
 random.shuffle(dataset)
 
-train_data = dataset[:7000]
-test_data = dataset[7000:]
+train_data = dataset[:9990]
+import ipdb; ipdb.set_trace()
+test_data = dataset[9990:]
 
 classifier = NaiveBayesClassifier.train(train_data)
 
+# =============================================================================
+# Repeating process with own data
+# =============================================================================
+
+# Reading tweets created using Twint.py
+country = str(input('Which country do you want to analze: '))
+# Data_tweets = unanalyzed tweet text, data = all tweet json format, code = codes for tweet
+data_tweets, data, code= read_tweets(country)
+
+data_tweets_tokens = [word_tokenize(x) for x in data_tweets]
+
+
+data_cleaned_tokens_list = []
+
+# Adding more random words that need to be removed
+most_common = ['covid','covid-19','covid_19','coronavirus','{}'.format(country),'http','...','people','state']
+stop_words = stop_words + most_common
+
+for tokens in data_tweets_tokens:
+    data_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
+
+## =============================================================================
+## Determining Word Density
+## =============================================================================
+#
+## Writing a function to get all possible words in tweets
+#
+## Using a generator function for memory purposes
+#def get_all_words(cleaned_tokens_list):
+#    
+#    for tokens in cleaned_tokens_list:
+#        for token in tokens:
+#            yield token
+#
+#all_pos_words = get_all_words(data_cleaned_tokens_list)
+#freq_dist_pos = FreqDist(all_pos_words)
+
+data_tokens_for_test = get_tweets_for_model(data_cleaned_tokens_list)
 
 # Testing with country data
 classified_tweets = []
 for i,tweet in enumerate(data_tokens_for_test):
     data[code[i]]['analyzed'] = 1
     data[code[i]]['sentiment'] = classifier.classify(dict([token, True] for token in tweet))
-    #classified_tweets.append(classifier.classify(dict([token, True] for token in tweet)))
     
 # Saving json file
 with open(r'./json/json_{}.txt'.format(country), 'w') as f:
